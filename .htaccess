@@ -2,5 +2,5 @@ RewriteEngine On
 Redirect 301 / https://pumpit.co.ua
 AuthType Basic
 AuthName «Restricted Content»
-AuthUserFile pumpIT/.htpasswd
+AuthUserFile /home/qqzvqjlc/public_html/.htpasswd
 Require valid-user
