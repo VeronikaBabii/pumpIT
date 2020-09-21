@@ -1,1 +1,4 @@
-Privetiki! It's our perfect project.
+Hello!
+Welcome to our free platform pumpIT.
+You can find us here https://pumpit.co.ua
+
