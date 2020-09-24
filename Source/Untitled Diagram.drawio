@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-24T19:33:24.471Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="iZ5JQU1TV3kG5fINtqDj" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-24T19:34:15.595Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.2 Safari/605.1.15" etag="ay34U9iHdsPaxH6bfkCW" version="13.7.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="933" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -266,7 +266,7 @@
           <mxGeometry x="1493.5" y="450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1412" value="Тестувальник Київ" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1944" y="341.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="1921" y="331.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1413" value="Hawk" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1450" y="386.5" width="120" height="40" as="geometry" />
@@ -278,25 +278,25 @@
           <mxGeometry x="1468.5" y="170" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1416" value="QA Engineer it start" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1631" y="221.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="1671" y="221.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1417" value="Juniour QA Engineer&amp;nbsp;" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1766" y="166.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1418" value="Quality Assurance Juniour" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1831" y="226.5" width="169" height="40" as="geometry" />
+          <mxGeometry x="1821" y="226.5" width="169" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1419" value="Джуниор тестировщик&amp;nbsp;" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1910" y="281.5" width="154" height="40" as="geometry" />
+          <mxGeometry x="1886" y="281.5" width="154" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1420" value="Albatross" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1440" y="561.5" width="120" height="40" as="geometry" />
+        <mxCell id="1420" value="Тестувальник Харків" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1634" y="506.5" width="136" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1421" value="Тестировщик Харьков" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="2040" y="410" width="209" height="40" as="geometry" />
+          <mxGeometry x="2050" y="394" width="209" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1422" value="Тестировщик Киев" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="2110" y="356.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="2070" y="346.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1423" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1352" target="1411" edge="1">
           <mxGeometry x="31" y="106.5" width="100" height="100" as="geometry">
@@ -346,7 +346,7 @@
             <mxPoint x="131" y="106.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1431" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1352" target="1412" edge="1">
+        <mxCell id="1431" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="1352" target="1412" edge="1">
           <mxGeometry x="31" y="106.5" width="100" height="100" as="geometry">
             <mxPoint x="31" y="206.5" as="sourcePoint" />
             <mxPoint x="131" y="106.5" as="targetPoint" />
@@ -851,10 +851,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wkshvCDq_tGi_GMs6MPh-1543" value="Тестировщик Днепр&amp;nbsp;" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="2032" y="456.5" width="209" height="40" as="geometry" />
+          <mxGeometry x="2050" y="441.5" width="209" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wkshvCDq_tGi_GMs6MPh-1544" value="Тестировщик Львов&amp;nbsp;" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="2032" y="506.5" width="209" height="40" as="geometry" />
+          <mxGeometry x="2012" y="490" width="209" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wkshvCDq_tGi_GMs6MPh-1545" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1352" target="wkshvCDq_tGi_GMs6MPh-1543" edge="1">
           <mxGeometry x="11.91" y="136.11" width="100" height="100" as="geometry">
@@ -869,15 +869,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wkshvCDq_tGi_GMs6MPh-1548" value="Тестувальник Львів" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1870" y="540" width="120" height="40" as="geometry" />
+          <mxGeometry x="1901" y="540" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wkshvCDq_tGi_GMs6MPh-1549" value="Тестувальник Дніпро" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1687" y="561.5" width="144" height="40" as="geometry" />
+          <mxGeometry x="1732" y="561.5" width="144" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0B5xoBzbM21rX6x5LjCb-1542" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" edge="1" parent="1" source="1352" target="wkshvCDq_tGi_GMs6MPh-1549">
           <mxGeometry x="3.330000000000002" y="166.64000000000001" width="100" height="100" as="geometry">
             <mxPoint x="1811.001378308311" y="460.0000468579285" as="sourcePoint" />
             <mxPoint x="2042" y="526.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0B5xoBzbM21rX6x5LjCb-1543" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;entryX=0.117;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="wkshvCDq_tGi_GMs6MPh-1548">
+          <mxGeometry x="-17.669999999999998" y="173.14000000000001" width="100" height="100" as="geometry">
+            <mxPoint x="1790.001378308311" y="466.5000468579285" as="sourcePoint" />
+            <mxPoint x="1880" y="533" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
