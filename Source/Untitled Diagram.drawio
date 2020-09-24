@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-24T19:37:04.585Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Moy8WR6F9Q9FIWfHkYpK" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-24T19:37:14.094Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.2 Safari/605.1.15" etag="QkmptnSEAqRtAIq3rQaK" version="13.7.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="933" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -266,7 +266,7 @@
           <mxGeometry x="1493.5" y="450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1412" value="Тестувальник Київ" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1921" y="331.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="1950" y="330" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1413" value="Hawk" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1450" y="386.5" width="120" height="40" as="geometry" />
@@ -283,14 +283,11 @@
         <mxCell id="1417" value="Juniour QA Engineer&amp;nbsp;" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1766" y="166.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1418" value="Quality Assurance Juniour" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1821" y="226.5" width="169" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="1419" value="Джуниор тестировщик&amp;nbsp;" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1886" y="281.5" width="154" height="40" as="geometry" />
+          <mxGeometry x="1919" y="281.5" width="154" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1420" value="Тестувальник Харків" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1634" y="506.5" width="136" height="40" as="geometry" />
+          <mxGeometry x="1535" y="611.5" width="136" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1421" value="Тестировщик Харьков" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="2050" y="394" width="209" height="40" as="geometry" />
@@ -869,10 +866,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wkshvCDq_tGi_GMs6MPh-1548" value="Тестувальник Львів" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1901" y="540" width="120" height="40" as="geometry" />
+          <mxGeometry x="1831" y="601.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wkshvCDq_tGi_GMs6MPh-1549" value="Тестувальник Дніпро" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1732" y="561.5" width="144" height="40" as="geometry" />
+          <mxGeometry x="1671" y="570" width="144" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0B5xoBzbM21rX6x5LjCb-1542" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" edge="1" parent="1" source="1352" target="wkshvCDq_tGi_GMs6MPh-1549">
           <mxGeometry x="3.330000000000002" y="166.64000000000001" width="100" height="100" as="geometry">
@@ -885,6 +882,18 @@
             <mxPoint x="1790.001378308311" y="466.5000468579285" as="sourcePoint" />
             <mxPoint x="1880" y="533" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0B5xoBzbM21rX6x5LjCb-1545" value="По містам" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="71.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0B5xoBzbM21rX6x5LjCb-1546" style="endArrow=none;strokeWidth=6;strokeColor=#0e8088;html=1;fillColor=#b0e3e6;" edge="1" parent="1" target="0B5xoBzbM21rX6x5LjCb-1545">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1803.667792615112" y="381.9328931290364" as="sourcePoint" />
+            <mxPoint x="2301.0040370311" y="86.50128627476022" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1418" value="Quality Assurance Juniour" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1821" y="226.5" width="169" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
