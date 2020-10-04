@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22886f35-10ef-4e25-a9bf-4b5a8da09a71" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_09_2020_21_50_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_09_2020_21_50__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-details.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/room-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/room-details.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rooms.html" beforeDir="false" afterPath="$PROJECT_DIR$/rooms.html" afterDir="false" />
     </list>
@@ -35,6 +36,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/pumpIT/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,7 +58,17 @@
       <workItem from="1600368628356" duration="5283000" />
       <workItem from="1600584022426" duration="18000" />
       <workItem from="1600719196555" duration="53000" />
-      <workItem from="1600719275135" duration="3570000" />
+      <workItem from="1600719275135" duration="3688000" />
+      <workItem from="1600723350065" duration="42000" />
+      <workItem from="1600934822854" duration="113000" />
+      <workItem from="1600970572505" duration="748000" />
+      <workItem from="1600985673294" duration="416000" />
+      <workItem from="1601135026938" duration="3000" />
+      <workItem from="1601203992555" duration="114000" />
+      <workItem from="1601301855336" duration="610000" />
+      <workItem from="1601586242431" duration="4118000" />
+      <workItem from="1601629814570" duration="2352000" />
+      <workItem from="1601829716302" duration="1892000" />
     </task>
     <task id="LOCAL-00001" summary="delete tripadvisor">
       <created>1600366957258</created>
@@ -77,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600377812481</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="rewrite for our needs">
+      <created>1600722944472</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600722944472</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,21 +115,22 @@
     <MESSAGE value="delete tripadvisor" />
     <MESSAGE value="add .htaccess" />
     <MESSAGE value="add new .htaccess" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new .htaccess" />
+    <MESSAGE value="rewrite for our needs" />
+    <option name="LAST_COMMIT_MESSAGE" value="rewrite for our needs" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1600377811811">
+    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1600722943644">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1600377811811" />
+    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1600722943644" />
     <state x="121" y="51" key="MergeDialog" timestamp="1600368680896">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="121" y="51" key="MergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1600368680896" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1600377818847">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1600722952087">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1600377818847" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1600722952087" />
     <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600375106713">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
