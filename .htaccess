@@ -1,5 +1,14 @@
+Options +FollowSymLinks
 RewriteEngine On
 Redirect 301 / https://pumpit.co.ua
+
+RewriteCond %{HTTP_HOST} ^www\.(.*)$
+RewriteRule ^(.*)$ https://pumpit.co.ua%1/$1 [L,R=301] 
+
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
+RewriteRule ^(.*)$ https://pumpit.co.ua%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
 AuthType Basic
 AuthName «Restricted Content»
 AuthUserFile /home/qqzvqjlc/public_html/.htpasswd
