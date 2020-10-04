@@ -3,11 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="22886f35-10ef-4e25-a9bf-4b5a8da09a71" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about/about-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/about/about-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about/about-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/about/about-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/hero/hero-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/hero/hero-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/hero/hero-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/hero/hero-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/hero/hero-3.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/room-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/room-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rooms.html" beforeDir="false" afterPath="$PROJECT_DIR$/rooms.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +33,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Марія\WebstormProjects\pumpIT\img\hero" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/pumpIT/index.html" useBuiltInWebServerPort="true">
@@ -65,7 +71,7 @@
       <workItem from="1601301855336" duration="610000" />
       <workItem from="1601586242431" duration="4118000" />
       <workItem from="1601629814570" duration="2352000" />
-      <workItem from="1601829716302" duration="2945000" />
+      <workItem from="1601829716302" duration="6088000" />
     </task>
     <task id="LOCAL-00001" summary="delete tripadvisor">
       <created>1600366957258</created>
@@ -109,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601831635648</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="changed pages">
+      <created>1601832753512</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1601832753512</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,13 +134,14 @@
     <MESSAGE value="add new .htaccess" />
     <MESSAGE value="rewrite for our needs" />
     <MESSAGE value="rewrited header" />
-    <option name="LAST_COMMIT_MESSAGE" value="rewrited header" />
+    <MESSAGE value="changed pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed pages" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1601831634516">
+    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1601832752892">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1601831634516" />
+    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1601832752892" />
     <state x="121" y="51" key="MergeDialog" timestamp="1600368680896">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -136,14 +150,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1601832588473" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1600722952087">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1601832843431">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1600722952087" />
-    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600375106713">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601832843431" />
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601832783147">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1600375106713" />
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1601832783147" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1601832605656">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
