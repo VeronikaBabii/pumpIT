@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="22886f35-10ef-4e25-a9bf-4b5a8da09a71" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/about/about-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/about/about-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/about/about-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/about/about-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/hero/hero-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/hero/hero-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/hero/hero-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/hero/hero-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/hero/hero-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +16,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1heLvjNnmdPtqqb0JTVr6FtoyJi" />
   <component name="ProjectViewState">
@@ -71,7 +66,13 @@
       <workItem from="1601301855336" duration="610000" />
       <workItem from="1601586242431" duration="4118000" />
       <workItem from="1601629814570" duration="2352000" />
-      <workItem from="1601829716302" duration="6088000" />
+      <workItem from="1601829716302" duration="6180000" />
+      <workItem from="1601838968742" duration="11000" />
+      <workItem from="1601910404609" duration="642000" />
+      <workItem from="1601928941459" duration="830000" />
+      <workItem from="1601931596691" duration="88000" />
+      <workItem from="1601931697226" duration="62000" />
+      <workItem from="1601992585871" duration="10000" />
     </task>
     <task id="LOCAL-00001" summary="delete tripadvisor">
       <created>1600366957258</created>
@@ -122,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601832753512</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added new photos in home page">
+      <created>1601838697788</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601838697788</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,29 +143,34 @@
     <MESSAGE value="rewrite for our needs" />
     <MESSAGE value="rewrited header" />
     <MESSAGE value="changed pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed pages" />
+    <MESSAGE value="added new photos in home page" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new photos in home page" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1601832752892">
+    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1601838696955">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1601832752892" />
+    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1601838696955" />
     <state x="121" y="51" key="MergeDialog" timestamp="1600368680896">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="121" y="51" key="MergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1600368680896" />
+    <state x="433" y="61" key="RollbackChangesDialog" timestamp="1601931669167">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="433" y="61" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1601931669167" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1601832588473">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1601832588473" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1601832843431">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1601838744373">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601832843431" />
-    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601832783147">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601838744373" />
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601931675752">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1601832783147" />
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1601931675752" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1601832605656">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
