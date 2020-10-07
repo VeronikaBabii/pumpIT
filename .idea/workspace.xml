@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="22886f35-10ef-4e25-a9bf-4b5a8da09a71" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/newones/pexels-fauxels-3184339.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/newones/pexels-kaboompics-com-6444.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/positions.html" beforeDir="false" afterPath="$PROJECT_DIR$/positions/positions.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +93,7 @@
       <workItem from="1602006293459" duration="1943000" />
       <workItem from="1602009144028" duration="108000" />
       <workItem from="1602009954369" duration="1223000" />
-      <workItem from="1602087510586" duration="2057000" />
+      <workItem from="1602087510586" duration="5654000" />
     </task>
     <task id="LOCAL-00001" summary="delete tripadvisor">
       <created>1600366957258</created>
@@ -170,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602007330234</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add text into positions page">
+      <created>1602089795972</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1602089795972</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,17 +196,18 @@
     <MESSAGE value="test commit" />
     <MESSAGE value="Add positions on all pages" />
     <MESSAGE value="Fix positions redirection" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix positions redirection" />
+    <MESSAGE value="add text into positions page" />
+    <option name="LAST_COMMIT_MESSAGE" value="add text into positions page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602006792086">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1602006792086" />
-    <state x="297" y="0" key="CommitChangelistDialog2" timestamp="1602007330065">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1602089795369">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1601838696955" />
+    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602089795369" />
     <state x="297" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1602007330065" />
     <state x="121" y="51" key="MergeDialog" timestamp="1600368680896">
       <screen x="0" y="0" width="1280" height="680" />
@@ -211,10 +221,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1601832588473" />
-    <state x="262" y="98" key="Vcs.Push.Dialog.v2" timestamp="1602007333971">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1602089805128">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601838744373" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602089805128" />
     <state x="262" y="98" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1602007333971" />
     <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602087537251">
       <screen x="0" y="0" width="1280" height="680" />
