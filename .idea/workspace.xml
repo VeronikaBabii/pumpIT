@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="22886f35-10ef-4e25-a9bf-4b5a8da09a71" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/positions-android.html" beforeDir="false" afterPath="$PROJECT_DIR$/positions/positions-android.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/positions-frontend.html" beforeDir="false" afterPath="$PROJECT_DIR$/positions/positions-frontend.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/positions-ios.html" beforeDir="false" afterPath="$PROJECT_DIR$/positions/positions-ios.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/positions-java.html" beforeDir="false" afterPath="$PROJECT_DIR$/positions/positions-java.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/positions-motion.html" beforeDir="false" afterPath="$PROJECT_DIR$/positions/positions-motion.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/positions-qa.html" beforeDir="false" afterPath="$PROJECT_DIR$/positions/positions-qa.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/positions/positions.html" beforeDir="false" afterPath="$PROJECT_DIR$/positions/positions.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +17,6 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1heLvjNnmdPtqqb0JTVr6FtoyJi" />
   <component name="ProjectLevelVcsManager">
@@ -36,6 +29,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/positions" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -46,6 +40,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Марія\WebstormProjects\pumpIT\positions" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/html" />
       <recent name="$PROJECT_DIR$/positions" />
@@ -92,6 +89,9 @@
       <workItem from="1601931697226" duration="62000" />
       <workItem from="1601992585871" duration="10000" />
       <workItem from="1602006293459" duration="1943000" />
+      <workItem from="1602009144028" duration="108000" />
+      <workItem from="1602009954369" duration="1223000" />
+      <workItem from="1602087510586" duration="2057000" />
     </task>
     <task id="LOCAL-00001" summary="delete tripadvisor">
       <created>1600366957258</created>
@@ -216,10 +216,14 @@
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601838744373" />
     <state x="262" y="98" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1602007333971" />
-    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601931675752">
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602087537251">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1601931675752" />
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1602087537251" />
+    <state x="0" y="0" width="587" height="680" key="find.popup" timestamp="1602010993184">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" width="587" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1602010993184" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1601832605656">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
