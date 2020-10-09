@@ -125,7 +125,7 @@
 
     $("#form").on("submit", event => {
         event.preventDefault();
-        window.location.href = `positions/positions-${room.value}.html`
+        window.location.href = `positions/positions-${room.val()}.html`
     });
 
 })(jQuery);
