@@ -3,7 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="22886f35-10ef-4e25-a9bf-4b5a8da09a71" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/positions.html" beforeDir="false" afterPath="$PROJECT_DIR$/positions/positions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/newones/8EA13BA7-C6B7-45DB-83E0-17A99F52DD70.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/img/hero/8EA13BA7-C6B7-45DB-83E0-17A99F52DD70.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/newones/9C3C36C9-3CE8-4485-815B-B5874BCBB3C0.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/img/hero/9C3C36C9-3CE8-4485-815B-B5874BCBB3C0.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/newones/CC08FDAF-A781-4A3F-9829-A90640E79AEB.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/img/hero/CC08FDAF-A781-4A3F-9829-A90640E79AEB.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-3.3.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-ui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery-ui.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.magnific-popup.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.magnific-popup.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.nice-select.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.nice-select.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/owl.carousel.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/owl.carousel.min.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +30,6 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1heLvjNnmdPtqqb0JTVr6FtoyJi" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,23 +37,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/positions" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Марія\WebstormProjects\pumpIT\positions" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/html" />
-      <recent name="$PROJECT_DIR$/positions" />
+      <recent name="$PROJECT_DIR$/img/hero" />
       <recent name="C:\Users\Марія\WebstormProjects\pumpIT\img\hero" />
     </key>
   </component>
@@ -88,13 +85,6 @@
       <workItem from="1601931596691" duration="88000" />
       <workItem from="1601931697226" duration="62000" />
       <workItem from="1601992585871" duration="10000" />
-      <workItem from="1602006293459" duration="1943000" />
-      <workItem from="1602009144028" duration="108000" />
-      <workItem from="1602009954369" duration="1223000" />
-      <workItem from="1602087510586" duration="6972000" />
-      <workItem from="1602095471368" duration="578000" />
-      <workItem from="1602096829923" duration="412000" />
-      <workItem from="1602097426484" duration="268000" />
     </task>
     <task id="LOCAL-00001" summary="delete tripadvisor">
       <created>1600366957258</created>
@@ -152,70 +142,7 @@
       <option name="project" value="LOCAL" />
       <updated>1601838697788</updated>
     </task>
-    <task id="LOCAL-00009" summary="test commit">
-      <created>1602006402385</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1602006402385</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Add positions on all pages">
-      <created>1602006668454</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1602006668454</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Fix positions redirection">
-      <created>1602007330234</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1602007330234</updated>
-    </task>
-    <task id="LOCAL-00012" summary="add text into positions page">
-      <created>1602089795972</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1602089795972</updated>
-    </task>
-    <task id="LOCAL-00013" summary="positions page done">
-      <created>1602094065227</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1602094065227</updated>
-    </task>
-    <task id="LOCAL-00014" summary="positions page done (added right colors)">
-      <created>1602094482041</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1602094482041</updated>
-    </task>
-    <task id="LOCAL-00015" summary="delete photos">
-      <created>1602094841304</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1602094841304</updated>
-    </task>
-    <task id="LOCAL-00016" summary="changes some photos">
-      <created>1602095293182</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1602095293182</updated>
-    </task>
-    <task id="LOCAL-00017" summary="added photos &#10;so now path is right">
-      <created>1602096936162</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1602096936162</updated>
-    </task>
-    <option name="localTasksCounter" value="18" />
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,27 +156,13 @@
     <MESSAGE value="rewrited header" />
     <MESSAGE value="changed pages" />
     <MESSAGE value="added new photos in home page" />
-    <MESSAGE value="test commit" />
-    <MESSAGE value="Add positions on all pages" />
-    <MESSAGE value="Fix positions redirection" />
-    <MESSAGE value="add text into positions page" />
-    <MESSAGE value="positions page done" />
-    <MESSAGE value="positions page done (added right colors)" />
-    <MESSAGE value="delete photos" />
-    <MESSAGE value="changes some photos" />
-    <MESSAGE value="added photos &#10;so now path is right" />
-    <option name="LAST_COMMIT_MESSAGE" value="added photos &#10;so now path is right" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new photos in home page" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602006792086">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1602006792086" />
-    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1602096935332">
+    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1601838696955">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602096935332" />
-    <state x="297" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1602007330065" />
+    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1601838696955" />
     <state x="121" y="51" key="MergeDialog" timestamp="1600368680896">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -262,19 +175,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1601832588473" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1602096944422">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1601838744373">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602096944422" />
-    <state x="262" y="98" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1602007333971" />
-    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602087537251">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601838744373" />
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601931675752">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1602087537251" />
-    <state x="0" y="0" width="587" height="680" key="find.popup" timestamp="1602010993184">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="0" y="0" width="587" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1602010993184" />
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1601931675752" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1601832605656">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
