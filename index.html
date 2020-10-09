@@ -177,33 +177,25 @@
             <div class="col-xl-4 col-lg-5 offset-xl-2 offset-lg-1">
                 <div class="booking-form">
                     <h3>Find your dream job</h3>
-                    <form action="#">
+                    <form id="form">
                         <div class="select-option">
                             <label for="guest">Position now:</label>
                             <select id="guest">
                                 <option value="">Student</option>
                             </select>
                         </div>
-                        <form id="form">
-                            <div class="select-option">
-                                <label for="room">Wanted position:</label>
-                                <select id="room">
-                                    <option value="java">Junior Java Developer</option>
-                                    <option value="ios">Junior IOS Developer</option>
-                                    <option value="android">Junior Android Developer</option>
-                                    <option value="qa">Junior QA Engineer</option>
-                                    <option value="motion">Junior Motion Designer</option>
-                                    <option value="frontend">Junior Frontend Developer</option>
-                                </select>
-                            </div>
-                            <button type="submit">Find recommendation</button>
-                        </form>
-<!--                        <script>-->
-<!--                            form.addEventListener("submit", e => {-->
-<!--                                e.preventDefault();-->
-<!--                                window.location.href = `positions/positions-${select.value}.html`-->
-<!--                            });-->
-<!--                        </script>-->
+                        <div class="select-option">
+                            <label for="room">Wanted position:</label>
+                            <select id="room">
+                                <option value="java">Junior Java Developer</option>
+                                <option value="ios">Junior IOS Developer</option>
+                                <option value="android">Junior Android Developer</option>
+                                <option value="qa">Junior QA Engineer</option>
+                                <option value="motion">Junior Motion Designer</option>
+                                <option value="frontend">Junior Frontend Developer</option>
+                            </select>
+                        </div>
+                        <button type="submit">Find recommendation</button>
                     </form>
                 </div>
             </div>
