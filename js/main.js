@@ -1,10 +1,3 @@
-/*  ---------------------------------------------------
-    Template Name: pumpIT
-    Description: pumpIT Html Template
-    Author: pumpIT
-    Version: 1.0
-    Created: pumpIT
----------------------------------------------------------  */
 
 'use strict';
 
@@ -46,29 +39,6 @@
         $('.search-model').fadeOut(400, function () {
             $('#search-input').val('');
         });
-    });
-
-    /*------------------
-     Submit button click main page
-  --------------------*/
-    $('#submit').on('click', function(){
-        let pos =$('#room').find("option:selected").attr('value');
-        if (pos==='1'){
-            window.location.href = 'positions/positions-java.html'
-        } else if (pos === '2') {
-            window.location.href = 'positions/positions-ios.html'
-        } else if (pos === '3') {
-            window.location.href = 'positions/positions-android.html'
-        } else if (pos === '4') {
-            window.location.href = 'positions/positions-qa.html'
-        } else if (pos === '5') {
-            window.location.href = 'positions/positions-motion.html'
-        } else if (pos === '6') {
-            window.location.href = 'positions/positions-frontend.html'
-        } else {
-            window.location.href = 'Source/index.html'
-        }
-        $(console.log('ZHOPA'));
     });
 
     /*------------------
