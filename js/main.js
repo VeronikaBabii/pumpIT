@@ -64,10 +64,6 @@
     //     $(console.log('ZHOPA'));
     // });
 
-
-
-
-
     /*------------------
 		Navigation
 	--------------------*/
@@ -127,8 +123,11 @@
 
 })(jQuery);
 
-form.addEventListener("submit", e => {
-    e.preventDefault();
-    window.location.href = 'positions/positions-${select.value}.html'
+const form = document.getElementById("form")
+const room = document.getElementById("room")
+
+form.addEventListener("submit", event => {
+    event.preventDefault();
+    window.location.href = 'positions/positions-${room.value}.html'
 });
 
