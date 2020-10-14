@@ -121,12 +121,13 @@
 	--------------------*/
     $("select").niceSelect();
 
-    const room = $("#room")
-
+    const room = document.getElementById("room")
     $("#form").on("submit", event => {
         event.preventDefault();
         window.location.href = `positions/positions-${room.val()}.html`
     });
-
 })(jQuery);
+
+
+
 
