@@ -2,8 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22886f35-10ef-4e25-a9bf-4b5a8da09a71" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_06_10_2020_21_30__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_06_10_2020_21_30__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_07_10_2020_11_57_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_07_10_2020_11_57__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/positions-android.html" beforeDir="false" afterPath="$PROJECT_DIR$/positions/positions-android.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/positions-frontend.html" beforeDir="false" afterPath="$PROJECT_DIR$/positions/positions-frontend.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/positions-ios.html" beforeDir="false" afterPath="$PROJECT_DIR$/positions/positions-ios.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/positions-java.html" beforeDir="false" afterPath="$PROJECT_DIR$/positions/positions-java.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/positions-motion.html" beforeDir="false" afterPath="$PROJECT_DIR$/positions/positions-motion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/positions-qa.html" beforeDir="false" afterPath="$PROJECT_DIR$/positions/positions-qa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/positions.html" beforeDir="false" afterPath="$PROJECT_DIR$/positions/positions.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +110,9 @@
       <workItem from="1602096829923" duration="412000" />
       <workItem from="1602097426484" duration="483000" />
       <workItem from="1602240676139" duration="301000" />
+      <workItem from="1602261416852" duration="894000" />
+      <workItem from="1602341541976" duration="17000" />
+      <workItem from="1602696717734" duration="120000" />
     </task>
     <task id="LOCAL-00001" summary="delete tripadvisor">
       <created>1600366957258</created>
@@ -275,10 +292,10 @@
     </state>
     <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602097805769" />
     <state x="297" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1602258102762" />
-    <state x="121" y="51" key="MergeDialog" timestamp="1600368680896">
+    <state x="121" y="51" key="MergeDialog" timestamp="1602260373467">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="121" y="51" key="MergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1600368680896" />
+    <state x="121" y="51" key="MergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1602260373467" />
     <state x="433" y="61" key="RollbackChangesDialog" timestamp="1601931669167">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -292,10 +309,10 @@
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602097812917" />
     <state x="262" y="98" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1602258110381" />
-    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602240740446">
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602261686765">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1602240740446" />
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1602261686765" />
     <state x="0" y="0" width="587" height="680" key="find.popup" timestamp="1602010993184">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
