@@ -1526,11 +1526,11 @@ ul, ol {
 	margin-bottom: 18px;
 }
 .blog-item .bi-text h4 a {
-	color: #ffffff;
+	color:  #000000;
 }
 .blog-item .bi-text .b-time {
 	font-size: 12px;
-	color: #ffffff;
+	color:  #000000;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 }
