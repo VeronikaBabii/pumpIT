@@ -3,20 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="22886f35-10ef-4e25-a9bf-4b5a8da09a71" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog/blog-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog/blog-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog/blog-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog/blog-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog/blog-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog/blog-7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/newones/5 reasons why I hate taking naps_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/newones/Desktop Animation.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/newones/Let me check my calendar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/newones/pexels-bongkarn-thanyakij-3804074.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/newones/pexels-kristopherk-288530.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/newones/wajih-ghali-OIN4-1zvdFc-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/blog1.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/blog1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/blog2.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/blog2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/blog3.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/blog3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/blog4.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/blog4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/blog5.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/blog5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/blog6.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/blog6.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +113,7 @@
       <workItem from="1602240676139" duration="301000" />
       <workItem from="1602778105026" duration="68000" />
       <workItem from="1602857379303" duration="7856000" />
-      <workItem from="1602880994303" duration="3166000" />
+      <workItem from="1602880994303" duration="3944000" />
     </task>
     <task id="LOCAL-00001" summary="delete tripadvisor">
       <created>1600366957258</created>
@@ -319,14 +311,20 @@
       <option name="project" value="LOCAL" />
       <updated>1602883066153</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="added news">
+      <created>1602884205796</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1602884205796</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add new .htaccess" />
     <MESSAGE value="rewrite for our needs" />
     <MESSAGE value="rewrited header" />
     <MESSAGE value="changed pages" />
@@ -351,7 +349,8 @@
     <MESSAGE value="changed header in blogs" />
     <MESSAGE value="well done" />
     <MESSAGE value="changed structure of blogs page" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed structure of blogs page" />
+    <MESSAGE value="added news" />
+    <option name="LAST_COMMIT_MESSAGE" value="added news" />
   </component>
   <component name="WindowStateProjectService">
     <state x="407" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602860016194">
@@ -359,10 +358,10 @@
     </state>
     <state x="407" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1602860016194" />
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1602006792086" />
-    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1602883065542">
+    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1602884204969">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602883065542" />
+    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602884204969" />
     <state x="297" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1602258102762" />
     <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1602882817852">
       <screen x="0" y="0" width="1280" height="680" />
@@ -381,10 +380,10 @@
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1601832588473" />
     <state x="160" y="23" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1602703828652" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1602883072220">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1602884213959">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602883072220" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602884213959" />
     <state x="262" y="98" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1602258110381" />
     <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602881936894">
       <screen x="0" y="0" width="1280" height="680" />
