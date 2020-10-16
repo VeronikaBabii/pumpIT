@@ -1603,7 +1603,7 @@ ul, ol {
 	margin-bottom: 35px;
 }
 .blog-details-text .bd-pic .bp-item {
-	width: calc(33.33% - 10px);
+	width: calc(100% - 10px);
 	float: left;
 	margin-right: 15px;
 }
