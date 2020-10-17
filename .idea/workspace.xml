@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="22886f35-10ef-4e25-a9bf-4b5a8da09a71" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/blog1.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/blog1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/blog2.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/blog2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/blog3.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/blog3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/blog4.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/blog4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/blog5.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/blog5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/blog6.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/blog6.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,15 +47,15 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Марія\WebstormProjects\pumpIT\positions" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/versions" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="C:\Users\Марія\WebstormProjects\pumpIT\blogs" />
       <recent name="C:\Users\Марія\WebstormProjects\pumpIT" />
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/html" />
-      <recent name="$PROJECT_DIR$/positions" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Марія\WebstormProjects\pumpIT\positions" />
     </key>
   </component>
   <component name="RunManager">
@@ -341,14 +335,20 @@
       <option name="project" value="LOCAL" />
       <updated>1602938105897</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Remove comments and fix tags in blog posts">
+      <created>1602939895593</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1602939895593</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="changed pages" />
     <MESSAGE value="added new photos in home page" />
     <MESSAGE value="test commit" />
     <MESSAGE value="Add positions on all pages" />
@@ -373,7 +373,8 @@
     <MESSAGE value="added right url from blogs pages to positions in header" />
     <MESSAGE value="changed data" />
     <MESSAGE value="Remove broken links" />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove broken links" />
+    <MESSAGE value="Remove comments and fix tags in blog posts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove comments and fix tags in blog posts" />
   </component>
   <component name="WindowStateProjectService">
     <state x="407" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602860016194">
@@ -381,11 +382,11 @@
     </state>
     <state x="407" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1602860016194" />
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1602006792086" />
-    <state x="297" y="0" key="CommitChangelistDialog2" timestamp="1602938105428">
+    <state x="297" y="0" key="CommitChangelistDialog2" timestamp="1602939895419">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602886064624" />
-    <state x="297" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1602938105428" />
+    <state x="297" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1602939895419" />
     <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1602882817852">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -403,11 +404,11 @@
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1601832588473" />
     <state x="160" y="23" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1602703828652" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1602886071547">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="262" y="98" key="Vcs.Push.Dialog.v2" timestamp="1602940095780">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602886071547" />
-    <state x="262" y="98" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1602258110381" />
+    <state x="262" y="98" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1602940095780" />
     <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602925641211">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
