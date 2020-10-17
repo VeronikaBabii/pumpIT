@@ -3,23 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="22886f35-10ef-4e25-a9bf-4b5a8da09a71" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/blog1.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/blog1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/blog2.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/blog2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/blog3.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/blog3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/blog4.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/blog4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/blog5.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/blog5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/blog6.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/blog6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about/about-p1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about/about-p2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about/about-p3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/footer-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/gallery-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/gallery-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/gallery-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/gallery-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/hero/8EA13BA7-C6B7-45DB-83E0-17A99F52DD70.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/hero/9C3C36C9-3CE8-4485-815B-B5874BCBB3C0.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/hero/CC08FDAF-A781-4A3F-9829-A90640E79AEB.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/positions-android.html" beforeDir="false" afterPath="$PROJECT_DIR$/positions/positions-android.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/positions-frontend.html" beforeDir="false" afterPath="$PROJECT_DIR$/positions/positions-frontend.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/positions-ios.html" beforeDir="false" afterPath="$PROJECT_DIR$/positions/positions-ios.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/positions-java.html" beforeDir="false" afterPath="$PROJECT_DIR$/positions/positions-java.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/positions-motion.html" beforeDir="false" afterPath="$PROJECT_DIR$/positions/positions-motion.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/positions-qa.html" beforeDir="false" afterPath="$PROJECT_DIR$/positions/positions-qa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/positions.html" beforeDir="false" afterPath="$PROJECT_DIR$/positions/positions.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +124,7 @@
       <workItem from="1602925417314" duration="987000" />
       <workItem from="1602926689264" duration="2036000" />
       <workItem from="1602931625358" duration="324000" />
-      <workItem from="1602932253632" duration="1238000" />
+      <workItem from="1602932253632" duration="2715000" />
     </task>
     <task id="LOCAL-00001" summary="delete tripadvisor">
       <created>1600366957258</created>
@@ -354,14 +350,20 @@
       <option name="project" value="LOCAL" />
       <updated>1602928533173</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="added unique titles">
+      <created>1602933722144</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1602933722144</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="changed pages" />
     <MESSAGE value="added new photos in home page" />
     <MESSAGE value="test commit" />
     <MESSAGE value="Add positions on all pages" />
@@ -386,7 +388,8 @@
     <MESSAGE value="added right url from blogs pages to positions in header" />
     <MESSAGE value="changed data" />
     <MESSAGE value="returned the desired styles" />
-    <option name="LAST_COMMIT_MESSAGE" value="returned the desired styles" />
+    <MESSAGE value="added unique titles" />
+    <option name="LAST_COMMIT_MESSAGE" value="added unique titles" />
   </component>
   <component name="WindowStateProjectService">
     <state x="407" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602860016194">
@@ -394,10 +397,10 @@
     </state>
     <state x="407" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1602860016194" />
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1602006792086" />
-    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1602928532346">
+    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1602933721293">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602928532346" />
+    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602933721293" />
     <state x="297" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1602258102762" />
     <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1602882817852">
       <screen x="0" y="0" width="1280" height="680" />
@@ -416,10 +419,10 @@
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1601832588473" />
     <state x="160" y="23" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1602703828652" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1602928541689">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1602933731363">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602928541689" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602933731363" />
     <state x="262" y="98" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1602258110381" />
     <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602925641211">
       <screen x="0" y="0" width="1280" height="680" />
