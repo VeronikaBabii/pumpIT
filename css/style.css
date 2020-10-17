@@ -49,8 +49,13 @@ a:hover, a:focus {
 	color:  #000099;
 }
 ul, ol {
-	padding: 0;
 	margin: 0;
+	padding-left: 50px;
+	font-size: 18px;
+	font-family: "Cabin", sans-serif;
+	color: #707079;
+	font-weight: 400;
+	line-height: 30px;
 }
 /*---------------------
   Helper CSS
@@ -1603,7 +1608,7 @@ ul, ol {
 	margin-bottom: 35px;
 }
 .blog-details-text .bd-pic .bp-item {
-	width: calc(33.33% - 10px);
+	width: calc(100% - 10px);
 	float: left;
 	margin-right: 15px;
 }
