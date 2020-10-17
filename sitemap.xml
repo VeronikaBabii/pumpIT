@@ -13,37 +13,37 @@
         <priority>0.80</priority>
     </url>
     <url>
-        <loc>https://pumpit.co.ua/positions/positions.html</loc>
+        <loc>https://pumpit.co.ua/positions/all.html</loc>
         <lastmod>2020-10-02T11:11:18+00:00</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
-        <loc>https://pumpit.co.ua/positions/positions-java.html</loc>
+        <loc>https://pumpit.co.ua/positions/java.html</loc>
         <lastmod>2020-10-03T12:12:33+00:00</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
-        <loc>https://pumpit.co.ua/positions/positions-ios.html</loc>
+        <loc>https://pumpit.co.ua/positions/ios.html</loc>
         <lastmod>2020-10-04T12:32:44+00:00</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
-        <loc>https://pumpit.co.ua/positions/positions-android.html</loc>
+        <loc>https://pumpit.co.ua/positions/android.html</loc>
         <lastmod>2020-10-05T14:33:43+00:00</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
-        <loc>https://pumpit.co.ua/positions/positions-qa.html</loc>
+        <loc>https://pumpit.co.ua/positions/qa.html</loc>
         <lastmod>2020-10-06T14:33:52+00:00</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
-        <loc>https://pumpit.co.ua/positions/positions-motion.html</loc>
+        <loc>https://pumpit.co.ua/positions/motion.html</loc>
         <lastmod>2020-10-06T17:14:57+00:00</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
-        <loc>https://pumpit.co.ua/positions/positions-frontend.html</loc>
+        <loc>https://pumpit.co.ua/positions/frontend.html</loc>
         <lastmod>2020-10-10T13:54:09+00:00</lastmod>
         <priority>0.80</priority>
     </url>
@@ -79,7 +79,4 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://pumpit.co.ua/index.html" />
         <xhtml:link rel="alternate" hreflang="ru" href="https://pumpit.co.ua/index.html" />
     </url>
-<!--    <changefreq>weekly</changefreq>-->
-<!--    <lastmod>2018-06-04</lastmod>-->
-
 </urlset>

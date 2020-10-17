@@ -2,7 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22886f35-10ef-4e25-a9bf-4b5a8da09a71" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/versions/ru/about-us.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/versions/ru/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/versions/ru/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/versions/ru/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/versions/ru/positions/all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/versions/ru/positions/android.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/versions/ru/positions/frontend.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/versions/ru/positions/ios.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/versions/ru/positions/java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/versions/ru/positions/motion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/versions/ru/positions/qa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/versions/ua/about-us.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/versions/ua/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/versions/ua/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/versions/ua/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/versions/ua/positions/all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/versions/ua/positions/android.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/versions/ua/positions/frontend.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/versions/ua/positions/ios.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/versions/ua/positions/java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/versions/ua/positions/motion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/versions/ua/positions/qa.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/blog1.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/blog1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/blog2.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/blog2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/blog3.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/blog3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/blog4.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/blog4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/blog5.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/blog5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/blog6.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/blog6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/positions-android.html" beforeDir="false" afterPath="$PROJECT_DIR$/positions/android.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/positions-frontend.html" beforeDir="false" afterPath="$PROJECT_DIR$/positions/frontend.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/positions-ios.html" beforeDir="false" afterPath="$PROJECT_DIR$/positions/ios.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/positions-java.html" beforeDir="false" afterPath="$PROJECT_DIR$/positions/java.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/positions-motion.html" beforeDir="false" afterPath="$PROJECT_DIR$/positions/motion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/positions-qa.html" beforeDir="false" afterPath="$PROJECT_DIR$/positions/qa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/positions/positions.html" beforeDir="false" afterPath="$PROJECT_DIR$/positions/all.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +77,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/positions" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/versions/ru" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -55,6 +96,8 @@
       <recent name="$PROJECT_DIR$/html" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/versions/ru" />
+      <recent name="$PROJECT_DIR$/versions/ua" />
       <recent name="C:\Users\Марія\WebstormProjects\pumpIT\positions" />
     </key>
   </component>
@@ -342,14 +385,20 @@
       <option name="project" value="LOCAL" />
       <updated>1602939895593</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Change UK to UA everywhere">
+      <created>1602940707243</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1602940707243</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added new photos in home page" />
     <MESSAGE value="test commit" />
     <MESSAGE value="Add positions on all pages" />
     <MESSAGE value="Fix positions redirection" />
@@ -374,7 +423,8 @@
     <MESSAGE value="changed data" />
     <MESSAGE value="Remove broken links" />
     <MESSAGE value="Remove comments and fix tags in blog posts" />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove comments and fix tags in blog posts" />
+    <MESSAGE value="Change UK to UA everywhere" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change UK to UA everywhere" />
   </component>
   <component name="WindowStateProjectService">
     <state x="407" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602860016194">
@@ -382,11 +432,11 @@
     </state>
     <state x="407" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1602860016194" />
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1602006792086" />
-    <state x="297" y="0" key="CommitChangelistDialog2" timestamp="1602939895419">
+    <state x="297" y="23" key="CommitChangelistDialog2" timestamp="1602940707044">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602886064624" />
-    <state x="297" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1602939895419" />
+    <state x="297" y="23" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1602940707044" />
     <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1602882817852">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -404,11 +454,11 @@
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1601832588473" />
     <state x="160" y="23" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1602703828652" />
-    <state x="262" y="98" key="Vcs.Push.Dialog.v2" timestamp="1602940095780">
+    <state x="262" y="98" key="Vcs.Push.Dialog.v2" timestamp="1602940710480">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602886071547" />
-    <state x="262" y="98" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1602940095780" />
+    <state x="262" y="98" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1602940710480" />
     <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602925641211">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
