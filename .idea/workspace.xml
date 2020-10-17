@@ -1,19 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="22886f35-10ef-4e25-a9bf-4b5a8da09a71" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/versions/ru/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/versions/ru/about-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/versions/ru/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/versions/ru/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/versions/ru/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/versions/ru/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/versions/ru/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/versions/ru/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/versions/ru/positions/all.html" beforeDir="false" afterPath="$PROJECT_DIR$/versions/ru/positions/all.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/versions/ru/positions/android.html" beforeDir="false" afterPath="$PROJECT_DIR$/versions/ru/positions/android.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/versions/ru/positions/frontend.html" beforeDir="false" afterPath="$PROJECT_DIR$/versions/ru/positions/frontend.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/versions/ru/positions/ios.html" beforeDir="false" afterPath="$PROJECT_DIR$/versions/ru/positions/ios.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/versions/ru/positions/java.html" beforeDir="false" afterPath="$PROJECT_DIR$/versions/ru/positions/java.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/versions/ru/positions/motion.html" beforeDir="false" afterPath="$PROJECT_DIR$/versions/ru/positions/motion.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/versions/ru/positions/qa.html" beforeDir="false" afterPath="$PROJECT_DIR$/versions/ru/positions/qa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -368,6 +378,18 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test commit" />
     <MESSAGE value="Add positions on all pages" />
@@ -407,6 +429,10 @@
     </state>
     <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602886064624" />
     <state x="297" y="23" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1602940707044" />
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog" timestamp="1602948443748">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1602948443748" />
     <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1602882817852">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -429,10 +455,10 @@
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602886071547" />
     <state x="262" y="98" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1602947423329" />
-    <state x="515" y="338" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602947404027">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602949755150">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1602925641211" />
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1602949755150" />
     <state x="515" y="338" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1602947404027" />
     <state x="0" y="0" width="587" height="680" key="find.popup" timestamp="1602010993184">
       <screen x="0" y="0" width="1280" height="680" />
