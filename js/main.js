@@ -47,17 +47,17 @@
     // $('#submit').on('click', function(){
     //     let pos =$('#room').find("option:selected").attr('value');
     //     if (pos==='1'){
-    //         window.location.href = 'positions/java.html'
+    //         window.location.href = 'positions/positions-java.html'
     //     } else if (pos === '2') {
-    //         window.location.href = 'positions/ios.html'
+    //         window.location.href = 'positions/positions-ios.html'
     //     } else if (pos === '3') {
-    //         window.location.href = 'positions/android.html'
+    //         window.location.href = 'positions/positions-android.html'
     //     } else if (pos === '4') {
-    //         window.location.href = 'positions/qa.html'
+    //         window.location.href = 'positions/positions-qa.html'
     //     } else if (pos === '5') {
-    //         window.location.href = 'positions/motion.html'
+    //         window.location.href = 'positions/positions-motion.html'
     //     } else if (pos === '6') {
-    //         window.location.href = 'positions/frontend.html'
+    //         window.location.href = 'positions/positions-frontend.html'
     //     } else {
     //         window.location.href = 'Source/index.html'
     //     }
@@ -75,7 +75,7 @@
     /*------------------
         Hero Slider
     --------------------*/
-   $(".hero-slider").owlCarousel({
+    $(".hero-slider").owlCarousel({
         loop: true,
         margin: 0,
         items: 1,
@@ -121,13 +121,11 @@
 	--------------------*/
     $("select").niceSelect();
 
-    const room = document.getElementById("room")
+    const room = $("#room")
+
     $("#form").on("submit", event => {
         event.preventDefault();
-        window.location.href = `positions/positions-${room.val()}.html`
+        window.location.href = `positions/${room.val()}.html`
     });
+
 })(jQuery);
-
-
-
-
