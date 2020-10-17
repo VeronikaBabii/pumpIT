@@ -2,48 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22886f35-10ef-4e25-a9bf-4b5a8da09a71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/versions/ru/about-us.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versions/ru/blog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versions/ru/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versions/ru/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versions/ru/positions/all.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versions/ru/positions/android.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versions/ru/positions/frontend.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versions/ru/positions/ios.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versions/ru/positions/java.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versions/ru/positions/motion.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versions/ru/positions/qa.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versions/ua/about-us.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versions/ua/blog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versions/ua/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versions/ua/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versions/ua/positions/all.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versions/ua/positions/android.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versions/ua/positions/frontend.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versions/ua/positions/ios.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versions/ua/positions/java.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versions/ua/positions/motion.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versions/ua/positions/qa.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blogs/blog1.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/blog1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blogs/blog2.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/blog2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blogs/blog3.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/blog3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blogs/blog4.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/blog4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blogs/blog5.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/blog5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blogs/blog6.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/blog6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/positions-android.html" beforeDir="false" afterPath="$PROJECT_DIR$/positions/android.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/positions-frontend.html" beforeDir="false" afterPath="$PROJECT_DIR$/positions/frontend.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/positions-ios.html" beforeDir="false" afterPath="$PROJECT_DIR$/positions/ios.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/positions-java.html" beforeDir="false" afterPath="$PROJECT_DIR$/positions/java.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/positions-motion.html" beforeDir="false" afterPath="$PROJECT_DIR$/positions/motion.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/positions-qa.html" beforeDir="false" afterPath="$PROJECT_DIR$/positions/qa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/positions/positions.html" beforeDir="false" afterPath="$PROJECT_DIR$/positions/all.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
