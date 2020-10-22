@@ -98,8 +98,10 @@
 	--------------------*/
     $("select").niceSelect();
 
+    /*------------------
+          Find position button
+       --------------------*/
     const room = $("#room")
-
     $("#form").on("submit", event => {
         event.preventDefault();
         window.location.href = `positions/${room.val()}.html`
