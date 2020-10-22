@@ -154,6 +154,11 @@ img{
     width: 20px;
 }
 
+.positions-img img{
+    height: 200px;
+    width: 300px;
+}
+
 /* Preloder */
 
 #preloder {
