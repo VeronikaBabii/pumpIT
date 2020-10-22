@@ -144,6 +144,16 @@ ul, ol {
     width: 30px;
 }
 
+.play-icon img{
+    height: 50px;
+    width: 50px;
+}
+
+img{
+    height: 20px;
+    width: 20px;
+}
+
 /* Preloder */
 
 #preloder {
