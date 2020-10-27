@@ -7,7 +7,11 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-180580075-1"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
         gtag('js', new Date());
 
         gtag('config', 'UA-180580075-1');
@@ -42,7 +46,6 @@
 <div id="preloder">
     <div class="loader"></div>
 </div>
-
 <!-- Offcanvas Menu Section Begin -->
 <div class="offcanvas-menu-overlay"></div>
 <div class="canvas-open">
@@ -50,26 +53,31 @@
 </div>
 <div class="offcanvas-menu-wrapper">
     <div class="canvas-close">
-        <i class="icon_close"></i>
+        <div class=cross-icon>
+            <img src="../img/icons/cross.svg" alt="cross">
+        </div>
     </div>
     <div class="search-icon  search-switch">
-        <i class="icon_search"></i>
+        <div class=find-icon>
+            <img src="../img/icons/find.svg" alt="find">
+        </div>
     </div>
+
     <div class="header-configure-area">
         <div class="language-option">
             <img src="../img/flag.jpg" alt="lang">
             <span>EN <i class="fa fa-angle-down"></i></span>
             <div class="flag-dropdown">
                 <ul>
-                    <li><a href="#">UA</a></li>
-                    <li><a href="#">RU</a></li>
+                    <li><a href="/versions/ua/blog.html">UA</a></li>
+                    <li><a href="/versions/ru/blog.html">RU</a></li>
                 </ul>
             </div>
         </div>
     </div>
     <nav class="mainmenu mobile-menu">
         <ul>
-            <li class="active"><a href="../index.html">Home</a></li>
+            <li><a href="./index.html">Home</a></li>
             <li><a href="../positions/all.html">Positions</a>
                 <ul class="dropdown">
                     <li><a href="../positions/java.html">Junior Java Developer</a></li>
@@ -80,9 +88,9 @@
                     <li><a href="../positions/frontend.html">Junior Frontend Developer</a></li>
                 </ul>
             </li>
-            <li><a href="../about-us.html">About Us</a></li>
-            <li><a href="../blog.html">Blog</a></li>
-            <li><a href="../contact.html">Contacts</a></li>
+            <li><a href="./about-us.html">About Us</a></li>
+            <li class="active"><a href="./blog.html">Blog</a></li>
+            <li><a href="./contact.html">Contacts</a></li>
         </ul>
     </nav>
     <div id="mobile-menu-wrap"></div>
@@ -91,8 +99,10 @@
         <a href="#"><i class="fa fa-instagram"></i></a>
     </div>
     <ul class="top-widget">
-        <li><i class="fa fa-phone"></i> (12) 345 67890</li>
-        <li><i class="fa fa-envelope"></i> admin@pumpit.co.ua</li>
+        <img src="../img/icons/tel.svg" alt="tel"> (12) 345 67890
+        <li>
+            <img src="../img/icons/email.svg" alt="email"> admin@pumpit.co.ua
+        </li>
     </ul>
 </div>
 <!-- Offcanvas Menu Section End -->
@@ -104,8 +114,12 @@
             <div class="row">
                 <div class="col-lg-6">
                     <ul class="tn-left">
-                        <li><i class="fa fa-phone"></i> (12) 345 67890</li>
-                        <li><i class="fa fa-envelope"></i> admin@pumpit.co.ua</li>
+                        <li>
+                            <img src="../img/icons/tel.svg" alt="tel"> (12) 345 67890
+                        </li>
+                        <li>
+                            <img src="../img/icons/email.svg" alt="email"> admin@pumpit.co.ua
+                        </li>
                     </ul>
                 </div>
                 <div class="col-lg-6">
@@ -134,7 +148,7 @@
             <div class="row">
                 <div class="col-lg-2">
                     <div class="logo">
-                        <a href="../index.html">
+                        <a href="./index.html">
                             <h2>PumpIT</h2>
                         </a>
                     </div>
@@ -143,7 +157,7 @@
                     <div class="nav-menu">
                         <nav class="mainmenu">
                             <ul>
-                                <li class="active"><a href="../index.html">Home</a></li>
+                                <li><a href="./index.html">Home</a></li>
                                 <li><a href="../positions/all.html">Positions</a>
                                     <ul class="dropdown">
                                         <li><a href="../positions/java.html">Junior Java Developer</a></li>
@@ -154,13 +168,15 @@
                                         <li><a href="../positions/frontend.html">Junior Frontend Developer</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="../about-us.html">About Us</a></li>
-                                <li><a href="../blog.html">Blog</a></li>
-                                <li><a href="../contact.html">Contacts</a></li>
+                                <li><a href="./about-us.html">About Us</a></li>
+                                <li class="active"><a href="./blog.html">Blog</a></li>
+                                <li><a href="./contact.html">Contacts</a></li>
                             </ul>
                         </nav>
                         <div class="nav-right search-switch">
-                            <i class="icon_search"></i>
+                            <div class=find-icon>
+                                <img src="../img/icons/find.svg" alt="find">
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -170,16 +186,31 @@
 </header>
 <!-- Header End -->
 
+<!-- Blog Details Hero Section Begin -->
+<section class="blog-details-hero set-bg" data-setbg="../img/blog/blog-details/blog-detail.jpg">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-10 offset-lg-1">
+                <div class="bd-hero-text">
+                    <h2>Програмування з нуля</h2>
+                    <ul>
+                        <li class="b-time"><img src="../img/icons/clock.svg" alt="clock"> 16th October, 2020</li>
+                        <li><i class="icon_profile"></i> Unknown</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Blog Details Hero End -->
+
 <!-- Blog Details Section Begin -->
 <section class="blog-details-section">
     <div class="container">
         <div class="row">
             <div class="col-lg-10 offset-lg-1">
                 <div class="blog-details-text">
-                    <div class="bd-title">
-                     <div class="bd-more-text">
-                        <h4>Програмування з нуля</h4>
-                     </div>
+                    <div class="bd-more-text">
                         <p>Програмування — цікава і добре оплачувана професія. Серед її переваг — відсутність жорсткої
                             прив'язки до місця роботи. Програмісту зовсім не обов'язково сидіти цілими днями в офісі.
                             Він може працювати дистанційно з будь-якої точки планети. Переваг у такого фаху багато.
@@ -192,20 +223,25 @@
                             пару тижнів). Щоб освоїти програмування з нуля, потрібно мати перш за все бажання і деякі
                             здібності. Плюс певні знання.</p>
                     </div>
-                    <div class="bd-pic">
-                        <div class="bp-item">
-                            <img src="../img/blog/blogs1.png" alt="blog1 pic">
-                        </div>
-                    </div>
                     <div class="bd-more-text">
                         <div class="bm-item">
-                            <p>Перш за все — при навчанні та подальшій роботі вам знадобиться знання англійської мови. Саме ця мова у світі програмування є основним засобом спілкування. Тому практично вся документація ведеться англійською. При навчанні корисно вирішувати різні практичні завдання. Якісні мережеві ресурси з ними, як і гарні навчальні курси — теж англомовні.</p>
+                            <p>Перш за все — при навчанні та подальшій роботі вам знадобиться знання англійської мови.
+                                Саме ця мова у світі програмування є основним засобом спілкування. Тому практично вся
+                                документація ведеться англійською. При навчанні корисно вирішувати різні практичні
+                                завдання. Якісні мережеві ресурси з ними, як і гарні навчальні курси — теж
+                                англомовні.</p>
                         </div>
-                        <div class="bm-item">
-                            <p>Другий аспект — математичні здібності. Бажано, щоб математику ви знали добре. Це не дуже жорстка вимога, проте людині з математичним складом розуму і знанням предмета буде легше і вчитися, і займатися розробкою. А ось вища освіта не так важлива. Наявність диплома не завжди є принциповою вимогою навіть у великих IT-компаніях.</p>
+                        <div class="bd-more-text">
+                            <p>Другий аспект — математичні здібності. Бажано, щоб математику ви знали добре. Це не дуже
+                                жорстка вимога, проте людині з математичним складом розуму і знанням предмета буде легше
+                                і вчитися, і займатися розробкою. А ось вища освіта не так важлива. Наявність диплома не
+                                завжди є принциповою вимогою навіть у великих IT-компаніях.</p>
                         </div>
-                        <div class="bm-item">
-                            <p>Важливо, щоб програмування вам подобалося. Написання коду — не найцікавіше заняття. Однак тут важливий творчий аспект. Адже кожного разу при написанні програми з нуля ви створюєте щось нове. Можна навіть сказати, що таким чином ви зробите свій внесок у розвиток цивілізації.</p>
+                        <div class="bd-more-text">
+                            <p>Важливо, щоб програмування вам подобалося. Написання коду — не найцікавіше заняття. Однак
+                                тут важливий творчий аспект. Адже кожного разу при написанні програми з нуля ви
+                                створюєте щось нове. Можна навіть сказати, що таким чином ви зробите свій внесок у
+                                розвиток цивілізації.</p>
                         </div>
                     </div>
                     <div class="tag-share">
@@ -217,8 +253,8 @@
                         <div class="social-share">
                             <span>Share:</span>
                             <a href="#"><i class="fa fa-facebook"></i></a>
-                            <a href="#"><i class="fa fa-twitter"></i></a>
                             <a href="#"><i class="fa fa-instagram"></i></a>
+                            <a href="#"><i class="fa fa-youtube-play"></i></a>
                         </div>
                     </div>
                 </div>
@@ -250,7 +286,8 @@
             <div class="col-md-4">
                 <div class="blog-item set-bg" data-setbg="../img/blog/blogs3.jpg">
                     <div class="bi-text">
-                        <h4 class="b-tag"><a href="../blogs/blog3.html">Як навчитися програмувати онлайн? Поради для початківців</a></h4>
+                        <h4 class="b-tag"><a href="../blogs/blog3.html">Як навчитися програмувати онлайн? Поради для
+                            початківців</a></h4>
                         <div class="b-time"><i class="icon_clock_alt"></i> 16th October, 2020</div>
                     </div>
                 </div>

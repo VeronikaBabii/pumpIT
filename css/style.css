@@ -133,30 +133,40 @@ ul, ol {
 
 /* Icons */
 
-.menu-icon img{
+.menu-icon img {
     height: 30px;
     width: 30px;
     margin-bottom: 10px;
 }
 
-.find-icon img{
+.find-icon img {
     height: 30px;
     width: 30px;
 }
 
-.play-icon img{
+.play-icon img {
     height: 50px;
     width: 50px;
 }
 
-img{
+img {
     height: 20px;
     width: 20px;
 }
 
-.positions-img img{
+.positions-img img {
     height: 500px;
     width: 300px;
+}
+
+.about-pic .row .col-sm-6 img {
+    height: 250px;
+    width: 400px;
+}
+
+.bd-more-text .bm-item .container .row img {
+    height: 250px;
+    width: 400px;
 }
 
 /* Preloder */
@@ -1856,7 +1866,7 @@ img{
 .bd-hero-text span {
     font-size: 12px;
     color: #ffffff;
-    background: #dfa974;
+    background: #111111;
     font-weight: 500;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -1867,7 +1877,7 @@ img{
 
 .bd-hero-text h2 {
     font-size: 44px;
-    color: #ffffff;
+    color: #111111;
     line-height: 54px;
     margin-top: 30px;
     margin-bottom: 12px;
@@ -1876,7 +1886,7 @@ img{
 .bd-hero-text ul li {
     list-style: none;
     font-size: 14px;
-    color: #dfa974;
+    color: #111111;
     margin-right: 35px;
     display: inline-block;
 }

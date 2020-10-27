@@ -7,7 +7,11 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-180580075-1"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
         gtag('js', new Date());
 
         gtag('config', 'UA-180580075-1');
@@ -42,7 +46,6 @@
 <div id="preloder">
     <div class="loader"></div>
 </div>
-
 <!-- Offcanvas Menu Section Begin -->
 <div class="offcanvas-menu-overlay"></div>
 <div class="canvas-open">
@@ -50,26 +53,31 @@
 </div>
 <div class="offcanvas-menu-wrapper">
     <div class="canvas-close">
-        <i class="icon_close"></i>
+        <div class=cross-icon>
+            <img src="../img/icons/cross.svg" alt="cross">
+        </div>
     </div>
     <div class="search-icon  search-switch">
-        <i class="icon_search"></i>
+        <div class=find-icon>
+            <img src="../img/icons/find.svg" alt="find">
+        </div>
     </div>
+
     <div class="header-configure-area">
         <div class="language-option">
             <img src="../img/flag.jpg" alt="lang">
             <span>EN <i class="fa fa-angle-down"></i></span>
             <div class="flag-dropdown">
                 <ul>
-                    <li><a href="#">UA</a></li>
-                    <li><a href="#">RU</a></li>
+                    <li><a href="/versions/ua/blog.html">UA</a></li>
+                    <li><a href="/versions/ru/blog.html">RU</a></li>
                 </ul>
             </div>
         </div>
     </div>
     <nav class="mainmenu mobile-menu">
         <ul>
-            <li class="active"><a href="../index.html">Home</a></li>
+            <li><a href="./index.html">Home</a></li>
             <li><a href="../positions/all.html">Positions</a>
                 <ul class="dropdown">
                     <li><a href="../positions/java.html">Junior Java Developer</a></li>
@@ -80,9 +88,9 @@
                     <li><a href="../positions/frontend.html">Junior Frontend Developer</a></li>
                 </ul>
             </li>
-            <li><a href="../about-us.html">About Us</a></li>
-            <li><a href="../blog.html">Blog</a></li>
-            <li><a href="../contact.html">Contacts</a></li>
+            <li><a href="./about-us.html">About Us</a></li>
+            <li class="active"><a href="./blog.html">Blog</a></li>
+            <li><a href="./contact.html">Contacts</a></li>
         </ul>
     </nav>
     <div id="mobile-menu-wrap"></div>
@@ -91,8 +99,10 @@
         <a href="#"><i class="fa fa-instagram"></i></a>
     </div>
     <ul class="top-widget">
-        <li><i class="fa fa-phone"></i> (12) 345 67890</li>
-        <li><i class="fa fa-envelope"></i> admin@pumpit.co.ua</li>
+        <img src="../img/icons/tel.svg" alt="tel"> (12) 345 67890
+        <li>
+            <img src="../img/icons/email.svg" alt="email"> admin@pumpit.co.ua
+        </li>
     </ul>
 </div>
 <!-- Offcanvas Menu Section End -->
@@ -104,8 +114,12 @@
             <div class="row">
                 <div class="col-lg-6">
                     <ul class="tn-left">
-                        <li><i class="fa fa-phone"></i> (12) 345 67890</li>
-                        <li><i class="fa fa-envelope"></i> admin@pumpit.co.ua</li>
+                        <li>
+                            <img src="../img/icons/tel.svg" alt="tel"> (12) 345 67890
+                        </li>
+                        <li>
+                            <img src="../img/icons/email.svg" alt="email"> admin@pumpit.co.ua
+                        </li>
                     </ul>
                 </div>
                 <div class="col-lg-6">
@@ -134,7 +148,7 @@
             <div class="row">
                 <div class="col-lg-2">
                     <div class="logo">
-                        <a href="../index.html">
+                        <a href="./index.html">
                             <h2>PumpIT</h2>
                         </a>
                     </div>
@@ -143,7 +157,7 @@
                     <div class="nav-menu">
                         <nav class="mainmenu">
                             <ul>
-                                <li class="active"><a href="../index.html">Home</a></li>
+                                <li><a href="./index.html">Home</a></li>
                                 <li><a href="../positions/all.html">Positions</a>
                                     <ul class="dropdown">
                                         <li><a href="../positions/java.html">Junior Java Developer</a></li>
@@ -154,13 +168,15 @@
                                         <li><a href="../positions/frontend.html">Junior Frontend Developer</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="../about-us.html">About Us</a></li>
-                                <li><a href="../blog.html">Blog</a></li>
-                                <li><a href="../contact.html">Contacts</a></li>
+                                <li><a href="./about-us.html">About Us</a></li>
+                                <li class="active"><a href="./blog.html">Blog</a></li>
+                                <li><a href="./contact.html">Contacts</a></li>
                             </ul>
                         </nav>
                         <div class="nav-right search-switch">
-                            <i class="icon_search"></i>
+                            <div class=find-icon>
+                                <img src="../img/icons/find.svg" alt="find">
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -170,50 +186,67 @@
 </header>
 <!-- Header End -->
 
+<!-- Blog Details Hero Section Begin -->
+<section class="blog-details-hero set-bg" data-setbg="../img/blog/blog-details/blog-detail.jpg">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-10 offset-lg-1">
+                <div class="bd-hero-text">
+                    <h2>Як навчитися програмувати онлайн? Поради для початківців</h2>
+                    <ul>
+                        <li class="b-time"><img src="../img/icons/clock.svg" alt="clock"> 16th October, 2020</li>
+                        <li><i class="icon_profile"></i> Unknown</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Blog Details Hero End -->
+
 <!-- Blog Details Section Begin -->
 <section class="blog-details-section">
     <div class="container">
         <div class="row">
             <div class="col-lg-10 offset-lg-1">
                 <div class="blog-details-text">
-                    <div class="bd-title">
-                     <div class="bd-more-text">
-                        <h4>Як навчитися програмувати онлайн? Поради для початківців</h4>
-                     </div>
-                        <p>Програмування — зайняття досить рутинне. Для оволодіння мовою потрібно переробити дуже багато інформації. Щоб навчитися програмувати онлайн, бажано слідувати деяким простим правилам. Тоді процес навчання піде значно швидше, цікавіше й ефективніше.</p>
-                    </div>
-                    <div class="bd-pic">
-                        <div class="bp-item">
-                            <img src="../img/blog/blogs3.jpg" alt="blogs3 pic">
-                        </div>
+                    <div class="bm-item">
+                        <p>Програмування — зайняття досить рутинне. Для оволодіння мовою потрібно переробити дуже багато
+                            інформації. Щоб навчитися програмувати онлайн, бажано слідувати деяким простим правилам.
+                            Тоді процес навчання піде значно швидше, цікавіше й ефективніше.</p>
                     </div>
                     <div class="bd-more-text">
-                        <div class="bm-item">
-                            <p>1. Обов'язково вирішуйте практичні завдання, вивчайте нестандартні приклади. Це допоможе швидше вникнути в суть мови програмування, краще зрозуміти її внутрішню логіку та позбавить від одноманітного зубріння.</p>
-                        </div>
-                        <div class="bm-item">
-                            <p>2. Більше спілкуйтеся з колегами, беріть участь у конференціях, ставте питання на форумах.</p>
-                        </div>
-                        <div class="bm-item">
-                            <p>3. Вивчайте мову з наставником. Беріть участь у різноманітних проєктах, стартапах, хакатонах.</p>
-                        </div>
-                        <div class="bm-item">
-                            <p>4. Використовуйте навчальні сайти. Застосовуйте ігрову форму навчання.</p>
-                        </div>
-                        <div class="bm-item">
-                            <p>5. Шукайте інформацію в інтернеті, користуйтеся безкоштовними онлайн підручниками.</p>
-                        </div>
-                        <div class="bm-item">
-                            <p>6. Не перестрибуйте на іншу мову, не вчіть дві мови програмування одночасно. Спочатку вивчіть добре одну, освойте її для впевненого застосування на практиці. Тільки після цього можна переходити до вивчення наступної.</p>
-                        </div>
-                        <div class="bm-item">
-                            <p>7. Складіть чіткий план навчання. Усвідомте, що саме вам потрібно вивчити та в якій послідовності.</p>
-                        </div>
-                        
-                        <div class="bm-item">
-                            <h4>Підсумкові висновки</h4>
-                            <p>При вивченні програмування необхідно приділяти максимум уваги практичній стороні питання. Дуже важливим є спілкування з колегами. Рішення завдань, робота над реальними проєктами, участь в стартапах, конференціях, хакатонах і форумах — все це допоможе швидше та ефективніше освоїти спеціальність. Не менш важливо правильно підібрати курс навчання і скласти чіткий план розвитку. У цьому вам допоможуть спеціалізовані ресурси. На сайті PumpIT міститься багато інформації по тематиці програмування для початківців. Тут ви зможете ознайомитися з ефективними курсами по вивченню мов програмування та освоєння різних професій в IT.
-</p>
+                        <p>1. Обов'язково вирішуйте практичні завдання, вивчайте нестандартні приклади. Це допоможе
+                            швидше вникнути в суть мови програмування, краще зрозуміти її внутрішню логіку та
+                            позбавить від одноманітного зубріння.</p>
+
+                        <p>2. Більше спілкуйтеся з колегами, беріть участь у конференціях, ставте питання на
+                            форумах.</p>
+                        <p>3. Вивчайте мову з наставником. Беріть участь у різноманітних проєктах, стартапах,
+                            хакатонах.</p>
+
+                        <p>4. Використовуйте навчальні сайти. Застосовуйте ігрову форму навчання.</p>
+
+                        <p>5. Шукайте інформацію в інтернеті, користуйтеся безкоштовними онлайн підручниками.</p>
+
+                        <p>6. Не перестрибуйте на іншу мову, не вчіть дві мови програмування одночасно. Спочатку
+                            вивчіть добре одну, освойте її для впевненого застосування на практиці. Тільки після
+                            цього можна переходити до вивчення наступної.</p>
+
+                        <p>7. Складіть чіткий план навчання. Усвідомте, що саме вам потрібно вивчити та в якій
+                            послідовності.</p>
+
+                        <h4>Підсумкові висновки</h4>
+                        <div class="bd-more-text">
+                            <p>При вивченні програмування необхідно приділяти максимум уваги практичній стороні питання.
+                                Дуже важливим є спілкування з колегами. Рішення завдань, робота над реальними проєктами,
+                                участь в стартапах, конференціях, хакатонах і форумах — все це допоможе швидше та
+                                ефективніше освоїти спеціальність. Не менш важливо правильно підібрати курс навчання і
+                                скласти чіткий план розвитку. У цьому вам допоможуть спеціалізовані ресурси. На сайті
+                                PumpIT міститься багато інформації по тематиці програмування для початківців. Тут ви
+                                зможете ознайомитися з ефективними курсами по вивченню мов програмування та освоєння
+                                різних професій в IT.
+                            </p>
                         </div>
                     </div>
                     <div class="tag-share">
