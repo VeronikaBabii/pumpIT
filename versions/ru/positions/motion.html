@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="zxx">
+<html lang="ru">
 
 <head>
 
@@ -7,7 +7,11 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-180580075-1"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
         gtag('js', new Date());
 
         gtag('config', 'UA-180580075-1');
@@ -46,43 +50,50 @@
 <!-- Offcanvas Menu Section Begin -->
 <div class="offcanvas-menu-overlay"></div>
 <div class="canvas-open">
-    <i class="icon_menu"></i>
+    <div class=menu-icon>
+        <img src="../../../img/icons/menu.svg" alt="menu">
+    </div>
 </div>
 <div class="offcanvas-menu-wrapper">
     <div class="canvas-close">
-        <i class="icon_close"></i>
+        <div class=cross-icon>
+            <img src="../../../img/icons/cross.svg" alt="cross">
+        </div>
     </div>
     <div class="search-icon  search-switch">
-        <i class="icon_search"></i>
+        <div class=find-icon>
+            <img src="../../../img/icons/find.svg" alt="find">
+        </div>
     </div>
+
     <div class="header-configure-area">
         <div class="language-option">
-            <img src="///img/flag.jpg" alt="">
-            <span>EN <i class="fa fa-angle-down"></i></span>
+            <img src="../../../img/flag.jpg" alt="lang">
+            <span>RU <i class="fa fa-angle-down"></i></span>
             <div class="flag-dropdown">
                 <ul>
-                    <li><a href="#">UA</a></li>
-                    <li><a href="#">RU</a></li>
+                    <li><a href="../../../versions/ua/positions/motion.html">UA</a></li>
+                    <li><a href="../../../positions/motion.html">EN</a></li>
                 </ul>
             </div>
         </div>
     </div>
     <nav class="mainmenu mobile-menu">
         <ul>
-            <li class="active"><a href="../index.html">Home</a></li>
-            <li><a href="all.html">Positions</a>
+            <li class="active"><a href="../../../versions/ru/index.html">Главная</a></li>
+            <li><a href="../../../versions/ru/positions/all.html">Позиции</a>
                 <ul class="dropdown">
-                    <li><a href="java.html">Junior Java Developer</a></li>
-                    <li><a href="ios.html">Junior iOS Developer</a></li>
-                    <li><a href="android.html">Junior Android Developer</a></li>
-                    <li><a href="qa.html">Junior QA Engineer</a></li>
-                    <li><a href="./motion.html">Junior Motion Designer</a></li>
-                    <li><a href="frontend.html">Junior Frontend Developer</a></li>
+                    <li><a href="../../../versions/ru/positions/java.html">Junior Java Developer</a></li>
+                    <li><a href="../../../versions/ru/positions/ios.html">Junior iOS Developer</a></li>
+                    <li><a href="../../../versions/ru/positions/android.html">Junior Android Developer</a></li>
+                    <li><a href="../../../versions/ru/positions/qa.html">Junior QA Engineer</a></li>
+                    <li><a href="../../../versions/ru/positions/motion.html">Junior Motion Designer</a></li>
+                    <li><a href="../../../versions/ru/positions/frontend.html">Junior Frontend Developer</a></li>
                 </ul>
             </li>
-            <li><a href="../about-us.html">About Us</a></li>
-            <li><a href="../blog.html">Blog</a></li>
-            <li><a href="../contact.html">Contacts</a></li>
+            <li><a href="../../../versions/ru/about-us.html">Про нас</a></li>
+            <li><a href="../../../versions/ru/blog.html">Блог</a></li>
+            <li><a href="../../../versions/ru/contact.html">Контакты</a></li>
         </ul>
     </nav>
     <div id="mobile-menu-wrap"></div>
@@ -91,8 +102,10 @@
         <a href="#"><i class="fa fa-instagram"></i></a>
     </div>
     <ul class="top-widget">
-        <li><i class="fa fa-phone"></i> (12) 345 67890</li>
-        <li><i class="fa fa-envelope"></i> admin@pumpit.co.ua</li>
+        <img src="../../../img/icons/tel.svg" alt="tel"> (12) 345 67890
+        <li>
+            <img src="../../../img/icons/email.svg" alt="email"> admin@pumpit.co.ua
+        </li>
     </ul>
 </div>
 <!-- Offcanvas Menu Section End -->
@@ -104,8 +117,12 @@
             <div class="row">
                 <div class="col-lg-6">
                     <ul class="tn-left">
-                        <li><i class="fa fa-phone"></i> (12) 345 67890</li>
-                        <li><i class="fa fa-envelope"></i> admin@pumpit.co.ua</li>
+                        <li>
+                            <img src="../../../img/icons/tel.svg" alt="tel"> (12) 345 67890
+                        </li>
+                        <li>
+                            <img src="../../../img/icons/email.svg" alt="email"> admin@pumpit.co.ua
+                        </li>
                     </ul>
                 </div>
                 <div class="col-lg-6">
@@ -115,12 +132,12 @@
                             <a href="#"><i class="fa fa-instagram"></i></a>
                         </div>
                         <div class="language-option">
-                            <img src="///img/flag.jpg" alt="">
+                            <img src="../../../img/flag.jpg" alt="flag">
                             <span>EN <i class="fa fa-angle-down"></i></span>
                             <div class="flag-dropdown">
                                 <ul>
-                                    <li><a href="#">Uk</a></li>
-                                    <li><a href="#">Ru</a></li>
+                                    <li><a href="../../../versions/ua/positions/motion.html">UA</a></li>
+                                    <li><a href="../../../positions/motion.html">EN</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -134,7 +151,7 @@
             <div class="row">
                 <div class="col-lg-2">
                     <div class="logo">
-                        <a href="../index.html">
+                        <a href="../../../versions/ru/index.html">
                             <h2>PumpIT</h2>
                         </a>
                     </div>
@@ -143,24 +160,31 @@
                     <div class="nav-menu">
                         <nav class="mainmenu">
                             <ul>
-                                <li class="active"><a href="../index.html">Home</a></li>
-                                <li><a href="all.html">Positions</a>
+                                <li class="active"><a href="../../../versions/ru/index.html">Главная</a></li>
+                                <li><a href="../../../versions/ru/positions/all.html">Позиции</a>
                                     <ul class="dropdown">
-                                        <li><a href="java.html">Junior Java Developer</a></li>
-                                        <li><a href="ios.html">Junior iOS Developer</a></li>
-                                        <li><a href="android.html">Junior Android Developer</a></li>
-                                        <li><a href="qa.html">Junior QA Engineer</a></li>
-                                        <li><a href="./motion.html">Junior Motion Designer</a></li>
-                                        <li><a href="frontend.html">Junior Frontend Developer</a></li>
+                                        <li><a href="../../../versions/ru/positions/java.html">Junior Java Developer</a>
+                                        </li>
+                                        <li><a href="../../../versions/ru/positions/ios.html">Junior iOS Developer</a>
+                                        </li>
+                                        <li><a href="../../../versions/ru/positions/android.html">Junior Android
+                                            Developer</a></li>
+                                        <li><a href="../../../versions/ru/positions/qa.html">Junior QA Engineer</a></li>
+                                        <li><a href="../../../versions/ru/positions/motion.html">Junior Motion
+                                            Designer</a></li>
+                                        <li><a href="../../../versions/ru/positions/frontend.html">Junior Frontend
+                                            Developer</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="../about-us.html">About Us</a></li>
-                                <li><a href="../blog.html">Blog</a></li>
-                                <li><a href="../contact.html">Contacts</a></li>
+                                <li><a href="../../../versions/ru/about-us.html">Про нас</a></li>
+                                <li><a href="../../../versions/ru/blog.html">Блог</a></li>
+                                <li><a href="../../../versions/ru/contact.html">Контакты</a></li>
                             </ul>
                         </nav>
                         <div class="nav-right search-switch">
-                            <i class="icon_search"></i>
+                            <div class=find-icon>
+                                <img src="../../../img/icons/find.svg" alt="find">
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -178,8 +202,8 @@
                 <div class="breadcrumb-text">
                     <h2>Junior Motion Designer</h2>
                     <div class="bt-option">
-                        <a href="../index.html">Home</a>
-                        <a href="all.html">Positions</a>
+                        <a href="../../../versions/ru/index.html">Главная</a>
+                        <a href="all.html">Позиции</a>
                         <span>Junior Motion Designer</span>
                     </div>
                 </div>
@@ -189,40 +213,43 @@
 </div>
 <!-- Breadcrumb Section End -->
 
-<!-- Room Details Section Begin -->
+<!-- Details Section Begin -->
 <section class="room-details-section spad">
     <div class="container">
         <div class="row">
             <div class="col-lg-10 offset-lg-1">
                 <div class="blog-details-text">
                     <div class="bd-title">
-                        <p>Если вы не выпускаете мобильный телефон из рук и хотите понять принцип как работают
-                            программы,
-                            которыми вы пользуетесь и верите,
-                            что будущее за мобильными технологиями - для Вас интересной будет специальность
-                            iOS-разработчика,
-                            так как она требует некоторых творческих способностей и глубокой практической подготовки по
-                            мобильному программированию.
-                            <br><br>iOS разработчик - это программист,
-                            который занимается разработкой и поддержкой программного обеспечения для операционной
-                            системы iOS.
-                            С помощью языка программирования Objective-C или Swift,
-                            Вы сможете создавать мобильные приложения для самой популярной операционной системы iOS.
-                            <br><br>На iOS-разработчика также ложится часть ответственности за рейтинг мобильного
-                            приложения,
-                            так как чем понятней будет интерфейс и функционал,
-                            чем более подходящим способом будут структурированы данные,
-                            тем больше времени пользователь уделит приложению.</p>
+                        <p>Если у вас есть художественные способности и творческий талант, вы можете стать
+                            графиеским дизайнером. Используя свои способности и творческий подход, вы сможете создавать
+                            движущиеся слова, логотипы, текст и т.д.
+                            <br><br> Вашими знания могут использываться для моздания различных медиа-презентаций, таких
+                            как фильмы, реклама, телешоу, дизайн игр.
+                            <br><br>Кроме того, графический дизайнер хорошо знаком с разнообразием программного
+                            обеспечения для проектирования и компьютерных инструментов для проектирования.
+                            Понимание этих инструментов помогает быть в курсе достижений в индустрии
+                            анимированной графики.</p>
                     </div>
                     <div class="bd-more-text">
                         <div class="bm-item">
                             <h4>Кто такой Motion дизайнер?</h4>
+                            Профессия дизайнера анимированной графики - относительно новое явление в области дизайна.
+                            Профессии дизайнера, основанного на технологиях, растут.
                             <p></p>
                             <h4>Основные виды деятельности:</h4>
+                            - создают изображения для Интернета, телевидения или кино;<br>
+                            - создание видеоклипов, трейлеров, рекламных роликов, последовательности заголовков и т.д.<br>
+                            - создание графики для игр<br>
                             <p></p>
                             <h4>Требования к Motion дизайнеру:</h4>
+                            - 3D моделирование (также 2D как основа для 3D графики)<br>
+                            - анимация<br>
+                            - процедурная анимация<br>
+                            - текстурирование и световые эффекты для добавления визуального обьема<br>
+                            - понимание общего контекста<br>
+                            - адаптивность для различныъ форм<br>
                             <p></p>
-                            <h4>Курсы</h4>
+                            <h4>Курсы, которые помогут овладеть данными навыками</h4>
                             <ul>
                                 <li><a href="#">1</a></li>
                                 <li><a href="#">2</a></li>
@@ -237,7 +264,7 @@
         </div>
     </div>
 </section>
-<!-- Room Details Section End -->
+<!-- Details Section End -->
 
 <!-- Footer Section Begin -->
 <footer class="footer-section">
@@ -247,11 +274,11 @@
                 <div class="col-lg-4">
                     <div class="ft-about">
                         <div class="logo">
-                            <a href="#">
+                            <a href="../../../versions/ru/index.html">
                                 <h4>Logo of PumpIt</h4>
                             </a>
                         </div>
-                        <p>We want you find your dream job</p>
+                        <p>Мы хотим помочь тебе найти первую работу мечты</p>
                         <div class="fa-social">
                             <a href="#"><i class="fa fa-facebook"></i></a>
                             <a href="#"><i class="fa fa-instagram"></i></a>
@@ -261,18 +288,20 @@
                 </div>
                 <div class="col-lg-3 offset-lg-1">
                     <div class="ft-contact">
-                        <h6>Contact Us</h6>
+                        <a href="../../../versions/ru/contact.html">
+                            <h6>Контакты</h6>
+                        </a>
                         <ul>
                             <li>(12) 345 67890</li>
                             <li>admin@pumpit.co.ua</li>
-                            <li>Hryhoriy Skovoroda Street, 2, Kyiv, 04655, Ukraine</li>
+                            <li>улица Григория Сковороды 2, Киев, Украина, 04655</li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-lg-3 offset-lg-1">
                     <div class="ft-newslatter">
-                        <h6>New latest</h6>
-                        <p>Get the latest updates and offers.</p>
+                        <h6>Последнии новости</h6>
+                        <p>Получать последние уведомления и обновления</p>
                         <form action="#" class="fn-form">
                             <input type="text" placeholder="Email">
                             <button type="submit"><i class="fa fa-send"></i></button>
@@ -285,11 +314,8 @@
     <div class="copyright-option">
         <div class="container">
             <div class="row">
-                <div class="col-lg-7">
-                    <ul>
-                        <li><a href="#">Contact</a></li>
-                        <li><a href="#">Terms of use</a></li>
-                    </ul>
+                <div class="col-lg-7 text-center">
+                    <h6>© 2020 Copyright:<a href="https://www.instagram.com/mariesnlk/?hl=ru"> pumpIT</a></h6>
                 </div>
             </div>
         </div>
@@ -300,7 +326,11 @@
 <!-- Search model Begin -->
 <div class="search-model">
     <div class="h-100 d-flex align-items-center justify-content-center">
-        <div class="search-close-switch"><i class="icon_close"></i></div>
+        <div class="search-close-switch">
+            <div class=cross-icon>
+                <img src="../../../img/icons/cross.svg" alt="cross">
+            </div>
+        </div>
         <form class="search-model-form">
             <input type="text" id="search-input" placeholder="Search here.....">
         </form>
