@@ -149,10 +149,12 @@ ul, ol {
     width: 50px;
 }
 
-img {
+
+.tn-left .top-widget img{
     height: 20px;
     width: 20px;
 }
+
 
 .positions-img img {
     height: 500px;
@@ -2752,7 +2754,7 @@ img {
     }
 
     /* Roadmap Image */
-    .room-details-section.spad .container .roadmap img {
+    .room-details-section.spad .container img .roadmap{
         width: 70%;
         height: 800px;
     }
