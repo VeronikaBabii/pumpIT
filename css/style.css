@@ -2750,4 +2750,10 @@ img {
     .blog-details-text .comment-option .single-comment-item .sc-text a {
         margin-bottom: 10px;
     }
+
+    /* Roadmap Image */
+    .room-details-section.spad .container .roadmap img {
+        width: 70%;
+        height: 800px;
+    }
 }
