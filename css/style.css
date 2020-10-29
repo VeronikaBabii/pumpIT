@@ -150,11 +150,15 @@ ul, ol {
 }
 
 
-.tn-left .top-widget img{
+.tn-left img{
     height: 20px;
     width: 20px;
 }
 
+.top-widget img{
+    height: 20px;
+    width: 20px;
+}
 
 .positions-img img {
     height: 500px;
@@ -2754,7 +2758,7 @@ ul, ol {
     }
 
     /* Roadmap Image */
-    .room-details-section.spad .container img .roadmap{
+    .room-details-section.spad .container .roadmap img{
         width: 70%;
         height: 800px;
     }
