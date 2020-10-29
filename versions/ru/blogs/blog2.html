@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="zxx">
+<html lang="ru">
 
 <head>
 
@@ -7,7 +7,11 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-180580075-1"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
         gtag('js', new Date());
 
         gtag('config', 'UA-180580075-1');
@@ -25,16 +29,16 @@
     <link href="https://fonts.googleapis.com/css?family=Cabin:400,500,600,700&display=swap" rel="stylesheet">
 
     <!-- Css Styles -->
-    <link rel="stylesheet" href="../css/bootstrap.min.css" type="text/css">
-    <link rel="stylesheet" href="../css/font-awesome.min.css" type="text/css">
-    <link rel="stylesheet" href="../css/elegant-icons.css" type="text/css">
-    <link rel="stylesheet" href="../css/flaticon.css" type="text/css">
-    <link rel="stylesheet" href="../css/owl.carousel.min.css" type="text/css">
-    <link rel="stylesheet" href="../css/nice-select.css" type="text/css">
-    <link rel="stylesheet" href="../css/jquery-ui.min.css" type="text/css">
-    <link rel="stylesheet" href="../css/magnific-popup.css" type="text/css">
-    <link rel="stylesheet" href="../css/slicknav.min.css" type="text/css">
-    <link rel="stylesheet" href="../css/style.css" type="text/css">
+    <link rel="stylesheet" href="../../../css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="../../../css/font-awesome.min.css" type="text/css">
+    <link rel="stylesheet" href="../../../css/elegant-icons.css" type="text/css">
+    <link rel="stylesheet" href="../../../css/flaticon.css" type="text/css">
+    <link rel="stylesheet" href="../../../css/owl.carousel.min.css" type="text/css">
+    <link rel="stylesheet" href="../../../css/nice-select.css" type="text/css">
+    <link rel="stylesheet" href="../../../css/jquery-ui.min.css" type="text/css">
+    <link rel="stylesheet" href="../../../css/magnific-popup.css" type="text/css">
+    <link rel="stylesheet" href="../../../css/slicknav.min.css" type="text/css">
+    <link rel="stylesheet" href="../../../css/style.css" type="text/css">
 </head>
 
 <body>
@@ -42,51 +46,54 @@
 <div id="preloder">
     <div class="loader"></div>
 </div>
+
 <!-- Offcanvas Menu Section Begin -->
 <div class="offcanvas-menu-overlay"></div>
 <div class="canvas-open">
-    <i class="icon_menu"></i>
+    <div class=menu-icon>
+        <img src="../../../img/icons/menu.svg" alt="menu">
+    </div>
 </div>
 <div class="offcanvas-menu-wrapper">
     <div class="canvas-close">
         <div class=cross-icon>
-            <img src="../img/icons/cross.svg" alt="cross">
+            <img src="../../../img/icons/cross.svg" alt="cross">
         </div>
     </div>
     <div class="search-icon  search-switch">
         <div class=find-icon>
-            <img src="../img/icons/find.svg" alt="find">
+            <img src="../../../img/icons/find.svg" alt="find">
         </div>
     </div>
 
     <div class="header-configure-area">
         <div class="language-option">
-            <img src="../../../img/russia.jpg" alt="flag">
-            <span>EN <i class="fa fa-angle-down"></i></span>
+            <img src="../../../img/russia.jpg" alt="lang">
+            <span>RU <i class="fa fa-angle-down"></i></span>
             <div class="flag-dropdown">
                 <ul>
-                    <li><a href="/versions/ua/blog.html">UA</a></li>
-                    <li><a href="/versions/ru/blog.html">RU</a></li>
+                    <li><a href="../../../versions/ua/blog/blog2.html">UA</a></li>
+                    <li><a href="../../../blogs/blog2.html">EN</a></li>
                 </ul>
             </div>
         </div>
     </div>
     <nav class="mainmenu mobile-menu">
         <ul>
-            <li><a href="./index.html">Home</a></li>
-            <li><a href="../positions/all.html">Positions</a>
+            <li class="active"><a href="../../../versions/ru/index.html">Главная</a></li>
+            <li><a href="../../../versions/ru/positions/all.html">Позиции</a>
                 <ul class="dropdown">
-                    <li><a href="../positions/java.html">Junior Java Developer</a></li>
-                    <li><a href="../positions/ios.html">Junior iOS Developer</a></li>
-                    <li><a href="../positions/android.html">Junior Android Developer</a></li>
-                    <li><a href="../positions/qa.html">Junior QA Engineer</a></li>
-                    <li><a href="../positions/motion.html">Junior Motion Designer</a></li>
-                    <li><a href="../positions/frontend.html">Junior Frontend Developer</a></li>
+                    <li><a href="../../../versions/ru/positions/java.html">Junior Java Developer</a></li>
+                    <li><a href="../../../versions/ru/positions/ios.html">Junior iOS Developer</a></li>
+                    <li><a href="../../../versions/ru/positions/android.html">Junior Android Developer</a></li>
+                    <li><a href="../../../versions/ru/positions/qa.html">Junior QA Engineer</a></li>
+                    <li><a href="../../../versions/ru/positions/motion.html">Junior Motion Designer</a></li>
+                    <li><a href="../../../versions/ru/positions/frontend.html">Junior Frontend Developer</a></li>
                 </ul>
             </li>
-            <li><a href="./about-us.html">About Us</a></li>
-            <li class="active"><a href="./blog.html">Blog</a></li>
-            <li><a href="./contact.html">Contacts</a></li>
+            <li><a href="../../../versions/ru/about-us.html">Про нас</a></li>
+            <li><a href="../../../versions/ru/blog.html">Блог</a></li>
+            <li><a href="../../../versions/ru/contact.html">Контакты</a></li>
         </ul>
     </nav>
     <div id="mobile-menu-wrap"></div>
@@ -95,9 +102,9 @@
         <a href="#"><i class="fa fa-instagram"></i></a>
     </div>
     <ul class="top-widget">
-        <img src="../img/icons/tel.svg" alt="tel"> (12) 345 67890
+        <img src="../../../img/icons/tel.svg" alt="tel"> (12) 345 67890
         <li>
-            <img src="../img/icons/email.svg" alt="email"> admin@pumpit.co.ua
+            <img src="../../../img/icons/email.svg" alt="email"> admin@pumpit.co.ua
         </li>
     </ul>
 </div>
@@ -111,10 +118,10 @@
                 <div class="col-lg-6">
                     <ul class="tn-left">
                         <li>
-                            <img src="../img/icons/tel.svg" alt="tel"> (12) 345 67890
+                            <img src="../../../img/icons/tel.svg" alt="tel"> (12) 345 67890
                         </li>
                         <li>
-                            <img src="../img/icons/email.svg" alt="email"> admin@pumpit.co.ua
+                            <img src="../../../img/icons/email.svg" alt="email"> admin@pumpit.co.ua
                         </li>
                     </ul>
                 </div>
@@ -125,12 +132,12 @@
                             <a href="#"><i class="fa fa-instagram"></i></a>
                         </div>
                         <div class="language-option">
-                            <img src="../../../img/russia.jpg" alt="flag">
-                            <span>EN <i class="fa fa-angle-down"></i></span>
+                            <img src="../../../img/russia.jpg" alt="lang">
+                            <span>RU <i class="fa fa-angle-down"></i></span>
                             <div class="flag-dropdown">
                                 <ul>
-                                    <li><a href="#">Uk</a></li>
-                                    <li><a href="#">Ru</a></li>
+                                    <li><a href="../../../versions/ua/blog/blog2.html">UA</a></li>
+                                    <li><a href="../../../blogs/blog2.html">EN</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -144,7 +151,7 @@
             <div class="row">
                 <div class="col-lg-2">
                     <div class="logo">
-                        <a href="./index.html">
+                        <a href="../../../versions/ru/index.html">
                             <h2>PumpIT</h2>
                         </a>
                     </div>
@@ -153,25 +160,30 @@
                     <div class="nav-menu">
                         <nav class="mainmenu">
                             <ul>
-                                <li><a href="./index.html">Home</a></li>
-                                <li><a href="../positions/all.html">Positions</a>
+                                <li class="active"><a href="../../../versions/ru/index.html">Главная</a></li>
+                                <li><a href="../../../versions/ru/positions/all.html">Позиции</a>
                                     <ul class="dropdown">
-                                        <li><a href="../positions/java.html">Junior Java Developer</a></li>
-                                        <li><a href="../positions/ios.html">Junior iOS Developer</a></li>
-                                        <li><a href="../positions/android.html">Junior Android Developer</a></li>
-                                        <li><a href="../positions/qa.html">Junior QA Engineer</a></li>
-                                        <li><a href="../positions/motion.html">Junior Motion Designer</a></li>
-                                        <li><a href="../positions/frontend.html">Junior Frontend Developer</a></li>
+                                        <li><a href="../../../versions/ru/positions/java.html">Junior Java Developer</a>
+                                        </li>
+                                        <li><a href="../../../versions/ru/positions/ios.html">Junior iOS Developer</a>
+                                        </li>
+                                        <li><a href="../../../versions/ru/positions/android.html">Junior Android
+                                            Developer</a></li>
+                                        <li><a href="../../../versions/ru/positions/qa.html">Junior QA Engineer</a></li>
+                                        <li><a href="../../../versions/ru/positions/motion.html">Junior Motion
+                                            Designer</a></li>
+                                        <li><a href="../../../versions/ru/positions/frontend.html">Junior Frontend
+                                            Developer</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="./about-us.html">About Us</a></li>
-                                <li class="active"><a href="./blog.html">Blog</a></li>
-                                <li><a href="./contact.html">Contacts</a></li>
+                                <li><a href="../../../versions/ru/about-us.html">Про нас</a></li>
+                                <li><a href="../../../versions/ru/blog.html">Блог</a></li>
+                                <li><a href="../../../versions/ru/contact.html">Контакты</a></li>
                             </ul>
                         </nav>
                         <div class="nav-right search-switch">
                             <div class=find-icon>
-                                <img src="../img/icons/find.svg" alt="find">
+                                <img src="../../../img/icons/find.svg" alt="find">
                             </div>
                         </div>
                     </div>
@@ -183,15 +195,15 @@
 <!-- Header End -->
 
 <!-- Blog Details Hero Section Begin -->
-<section class="blog-details-hero set-bg" data-setbg="../img/blog/blog-details/blog-detail.jpg">
+<section class="blog-details-hero set-bg" data-setbg="../../../img/blog/blog-details/blog-detail.jpg">
     <div class="container">
         <div class="row">
             <div class="col-lg-10 offset-lg-1">
                 <div class="bd-hero-text">
-                    <h2>Мови програмування в IT</h2>
+                    <h2>Языки программирования в IT</h2>
                     <ul>
-                        <li class="b-time"><img src="../img/icons/clock.svg" alt="clock"> 16th October, 2020</li>
-                        <li><i class="icon_profile"></i> Unknown</li>
+                        <li class="b-time"><img src="../../../img/icons/clock.svg" alt="clock"> 16 Октября 2020</li>
+                        <li><i class="icon_profile"></i> Неизвестный</li>
                     </ul>
                 </div>
             </div>
@@ -207,49 +219,68 @@
             <div class="col-lg-10 offset-lg-1">
                 <div class="blog-details-text">
                     <div class="bm-item">
-                        <p>Важливе питання — з якої мови почати навчання. Це залежить від різних чинників: які завдання ви перед собою ставите, яку спеціалізацію плануєте вибрати. У професії програміста існує чимало напрямків, і мови в них використовуються різні. Більшість програмістів добре знають кілька мов. А ось пишуть код зазвичай тільки на одному (якщо іншого не вимагає їх спеціалізація). Коротко опишемо основні мови програмування та їх особливості.</p>
+                        <p>Важливе питання — з якої мови почати навчання. Це залежить від різних чинників: які завдання
+                            ви перед собою ставите, яку спеціалізацію плануєте вибрати. У професії програміста існує
+                            чимало напрямків, і мови в них використовуються різні. Більшість програмістів добре знають
+                            кілька мов. А ось пишуть код зазвичай тільки на одному (якщо іншого не вимагає їх
+                            спеціалізація). Коротко опишемо основні мови програмування та їх особливості.</p>
                     </div>
                     <div class="bd-more-text">
                         <div class="bm-item">
-                            <p>1. Python. Це найзручніша мова для початківців. Вона простіша для навчання і розуміння, а головне — на ній найлегше почати виконання реальних завдань. Мова широко використовується в більшості IT компаній, застосовується в академічній сфері.</p>
+                            <p>1. Python. Це найзручніша мова для початківців. Вона простіша для навчання і розуміння, а
+                                головне — на ній найлегше почати виконання реальних завдань. Мова широко
+                                використовується в більшості IT компаній, застосовується в академічній сфері.</p>
                         </div>
                         <div class="bd-more-text">
-                            <p>2. Java. Ще одна широко поширена мова. Вона складніше для навчання, проте Java програмісти дуже затребувані та добре оплачувані. Використовується в мобільній розробці, написанні коду для серверів, на різних платформах і пристроях. Застосовується великими IT-корпораціями. Важливий напрямок — програмування на Андроїд.</p>
+                            <p>2. Java. Ще одна широко поширена мова. Вона складніше для навчання, проте Java
+                                програмісти дуже затребувані та добре оплачувані. Використовується в мобільній розробці,
+                                написанні коду для серверів, на різних платформах і пристроях. Застосовується великими
+                                IT-корпораціями. Важливий напрямок — програмування на Андроїд.</p>
                         </div>
                         <div class="bd-more-text">
-                            <p>3. C. Мова Сі — одна з найстаріших. Вивчається в профільних вишах. Застосовується для апаратного і системного програмування. Використовується для програмування роботів, мікроконтролерів, написання операційних систем. Є основою мови C ++.</p>
+                            <p>3. C. Мова Сі — одна з найстаріших. Вивчається в профільних вишах. Застосовується для
+                                апаратного і системного програмування. Використовується для програмування роботів,
+                                мікроконтролерів, написання операційних систем. Є основою мови C ++.</p>
                         </div>
                         <div class="bd-more-text">
-                            <p>4. JavaScript. Важлива мова для Front-end розробників. Використовується для написання вебсайтів, 2D/3D ігор. Базова для платформи node.js.</p>
+                            <p>4. JavaScript. Важлива мова для Front-end розробників. Використовується для написання
+                                вебсайтів, 2D/3D ігор. Базова для платформи node.js.</p>
                         </div>
                         <div class="bd-more-text">
-                            <p>5. C++. Одна з найбільш складних мов, особливо для початківців. Застосовується для розробки складних додатків, написання операційних систем, ігор.</p>
+                            <p>5. C++. Одна з найбільш складних мов, особливо для початківців. Застосовується для
+                                розробки складних додатків, написання операційних систем, ігор.</p>
                         </div>
                         <div class="bd-more-text">
-                            <p>6. PHP. Широко використовується при написанні сайтів, підтримується більшістю хостингів. Базова для backend-розробників.</p>
+                            <p>6. PHP. Широко використовується при написанні сайтів, підтримується більшістю хостингів.
+                                Базова для backend-розробників.</p>
                         </div>
                         <div class="bd-more-text">
                             <p>7. C#. Застосовується для написання десктопних додатків Windows, сайтів.</p>
                         </div>
                         <div class="bd-more-text">
-                            <p>8. Rubi. Досить проста мова, добре підходить для стартапів, розважальних і особистих проєктів.</p>
+                            <p>8. Rubi. Досить проста мова, добре підходить для стартапів, розважальних і особистих
+                                проєктів.</p>
                         </div>
                         <div class="bd-more-text">
-                            <p>9. Objective-C. Широко використовується в корпорації Apple. Застосовується для розробки додатків iOS.</p>
+                            <p>9. Objective-C. Широко використовується в корпорації Apple. Застосовується для розробки
+                                додатків iOS.</p>
                         </div>
                         <div class="bm-item">
-                            <p>Зручніше за все починати з вивчення мови Python. Якщо хочете відразу почати непогано заробляти, можете обрати Java. Ця мова обов'язкова для Android програмістів.
-                            Ще один непоганий варіант для старту кар'єри в IT — вивчення мови Objective-C з наступним переходом на Swift. Цим шляхом йдуть чимало iOS програмістів.
-                            Для створення сайтів важливо вивчення інших мов. Для розробки frontend: HTML, CSS та JavaScript. Для backend: PHP та мови SQL.
-                            Якщо ви хочете писати ігри, хорошим вибором стане JavaScript з подальшим освоєнням C++.
-</p>
+                            <p>Зручніше за все починати з вивчення мови Python. Якщо хочете відразу почати непогано
+                                заробляти, можете обрати Java. Ця мова обов'язкова для Android програмістів.
+                                Ще один непоганий варіант для старту кар'єри в IT — вивчення мови Objective-C з
+                                наступним переходом на Swift. Цим шляхом йдуть чимало iOS програмістів.
+                                Для створення сайтів важливо вивчення інших мов. Для розробки frontend: HTML, CSS та
+                                JavaScript. Для backend: PHP та мови SQL.
+                                Якщо ви хочете писати ігри, хорошим вибором стане JavaScript з подальшим освоєнням C++.
+                            </p>
                         </div>
                     </div>
                     <div class="tag-share">
                         <div class="tags">
-                            <a href="#">Програмування</a>
-                            <a href="#">Мови програмування</a>
-                            <a href="#">Огляд</a>
+                            <a href="#">Программирование</a>
+                            <a href="#">Языки программирования</a>
+                            <a href="#">Обзор</a>
                         </div>
                         <div class="social-share">
                             <span>Share:</span>
@@ -271,32 +302,34 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title">
-                    <h2>Recommended</h2>
+                    <h2>Рекомендации</h2>
                 </div>
             </div>
         </div>
         <div class="row">
             <div class="col-md-4">
-                <div class="blog-item set-bg" data-setbg="../img/blog/blogs1.png">
+                <div class="blog-item set-bg" data-setbg="../../../img/blog/blogs1.png">
                     <div class="bi-text">
-                        <h4 class="b-tag"><a href="../blogs/blog1.html">Програмування з нуля</a></h4>
-                        <div class="b-time"><i class="icon_clock_alt"></i> 16th October, 2020</div>
+                        <h4 class="b-tag"><a href="../../../versions/ru/blogs/blog1.html">Программирование с нуля</a>
+                        </h4>
+                        <div class="b-time"><i class="icon_clock_alt"></i> 16 Октября 2020</div>
                     </div>
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="blog-item set-bg" data-setbg="../img/blog/blogs3.jpg">
+                <div class="blog-item set-bg" data-setbg="../../../img/blog/blogs3.jpg">
                     <div class="bi-text">
-                        <h4 class="b-tag"><a href="../blogs/blog3.html">Як навчитися програмувати онлайн? Поради для початківців</a></h4>
-                        <div class="b-time"><i class="icon_clock_alt"></i> 16th October, 2020</div>
+                        <h4 class="b-tag"><a href="../../../versions/ru/blogs/blog3.html">Как научиться программировать
+                            онлайн? Советы для начинающих </a></h4>
+                        <div class="b-time"><i class="icon_clock_alt"></i> 16 Октября 2020</div>
                     </div>
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="blog-item set-bg" data-setbg="../img/blog/blogs5.jpg">
+                <div class="blog-item set-bg" data-setbg="../../../img/blog/blogs5.jpg">
                     <div class="bi-text">
-                        <h4 class="b-tag"><a href="../blogs/blog5.html">Ким працювати в ІТ?</a></h4>
-                        <div class="b-time"><i class="icon_clock_alt"></i> 16th October, 2020</div>
+                        <h4 class="b-tag"><a href="../../../versions/ru/blogs/blog5.html">Кем работать в ІТ?</a></h4>
+                        <div class="b-time"><i class="icon_clock_alt"></i> 16 Октября 2020</div>
                     </div>
                 </div>
             </div>
@@ -313,11 +346,11 @@
                 <div class="col-lg-4">
                     <div class="ft-about">
                         <div class="logo">
-                            <a href="index.html">
+                            <a href="../../../versions/ru/index.html">
                                 <h4>Logo of PumpIt</h4>
                             </a>
                         </div>
-                        <p>We want you find your dream job</p>
+                        <p>Мы хотим помочь тебе найти первую работу мечты</p>
                         <div class="fa-social">
                             <a href="#"><i class="fa fa-facebook"></i></a>
                             <a href="#"><i class="fa fa-instagram"></i></a>
@@ -327,20 +360,20 @@
                 </div>
                 <div class="col-lg-3 offset-lg-1">
                     <div class="ft-contact">
-                        <a href="contact.html">
-                            <h6>Contact Us</h6>
+                        <a href="../../../versions/ru/contact.html">
+                            <h6>Контакты</h6>
                         </a>
                         <ul>
                             <li>(12) 345 67890</li>
                             <li>admin@pumpit.co.ua</li>
-                            <li>Hryhoriy Skovoroda Street, 2, Kyiv, 04655, Ukraine</li>
+                            <li>улица Григория Сковороды 2, Киев, Украина, 04655</li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-lg-3 offset-lg-1">
                     <div class="ft-newslatter">
-                        <h6>New latest</h6>
-                        <p>Get the latest updates and offers.</p>
+                        <h6>Последнии новости</h6>
+                        <p>Получать последние уведомления и обновления</p>
                         <form action="#" class="fn-form">
                             <input type="text" placeholder="Email">
                             <button type="submit"><i class="fa fa-send"></i></button>
@@ -365,7 +398,11 @@
 <!-- Search model Begin -->
 <div class="search-model">
     <div class="h-100 d-flex align-items-center justify-content-center">
-        <div class="search-close-switch"><i class="icon_close"></i></div>
+        <div class="search-close-switch">
+            <div class=cross-icon>
+                <img src="../../../img/icons/cross.svg" alt="cross">
+            </div>
+        </div>
         <form class="search-model-form">
             <input type="text" id="search-input" placeholder="Search here.....">
         </form>
@@ -374,14 +411,14 @@
 <!-- Search model end -->
 
 <!-- Js Plugins -->
-<script src="../js/jquery-3.3.1.min.js"></script>
-<script src="../js/bootstrap.min.js"></script>
-<script src="../js/jquery.magnific-popup.min.js"></script>
-<script src="../js/jquery.nice-select.min.js"></script>
-<script src="../js/jquery-ui.min.js"></script>
-<script src="../js/jquery.slicknav.js"></script>
-<script src="../js/owl.carousel.min.js"></script>
-<script src="../js/main.js"></script>
+<script src="../../../js/jquery-3.3.1.min.js"></script>
+<script src="../../../js/bootstrap.min.js"></script>
+<script src="../../../js/jquery.magnific-popup.min.js"></script>
+<script src="../../../js/jquery.nice-select.min.js"></script>
+<script src="../../../js/jquery-ui.min.js"></script>
+<script src="../../../js/jquery.slicknav.js"></script>
+<script src="../../../js/owl.carousel.min.js"></script>
+<script src="../../../js/main.js"></script>
 </body>
 
 </html>
