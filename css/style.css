@@ -170,6 +170,11 @@ ul, ol {
     width: 20px;
 }
 
+.author img{
+    height: 20px;
+    width: 20px;
+}
+
 .about-pic .row .col-sm-6 img {
     height: 250px;
     width: 400px;
