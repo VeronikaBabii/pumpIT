@@ -1016,7 +1016,7 @@ ul, ol {
 
 /* Courses section */
 .container h5 {
-    color: #7abaff;
+    background-color: #7abaff;
     text-align: center;
 }
 
@@ -2330,11 +2330,17 @@ ul, ol {
     .hp-room-items .hp-room-item .hr-text {
         bottom: -288px;
     }
+    .container h5 {
+        font-size: 16px;
+    }
 }
 
 @media only screen and (min-width: 1200px) {
     .container {
         max-width: 1170px;
+    }
+    .container h5 {
+        font-size: 16px;
     }
 }
 
@@ -2356,9 +2362,16 @@ ul, ol {
     .hp-room-items .hp-room-item:hover .hr-text {
         bottom: 80px;
     }
+    .container h5 {
+        font-size: 14px;
+    }
 }
 
 @media only screen and (max-width: 991px) {
+    .container h5 {
+        font-size: 14px;
+    }
+
     .top-nav {
         display: none;
     }
