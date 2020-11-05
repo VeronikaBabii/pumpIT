@@ -150,12 +150,12 @@ ul, ol {
 }
 
 
-.tn-left img{
+.tn-left img {
     height: 20px;
     width: 20px;
 }
 
-.top-widget img{
+.top-widget img {
     height: 20px;
     width: 20px;
 }
@@ -165,12 +165,12 @@ ul, ol {
     width: 300px;
 }
 
-.b-time img{
+.b-time img {
     height: 20px;
     width: 20px;
 }
 
-.author img{
+.author img {
     height: 20px;
     width: 20px;
 }
@@ -1012,6 +1012,12 @@ ul, ol {
 
 .blog-section .section-title {
     margin-bottom: 36px;
+}
+
+/* Courses section */
+.container h5 {
+    color: #7abaff;
+    text-align: center;
 }
 
 /*---------------------
@@ -2645,11 +2651,11 @@ ul, ol {
 
     .hero-text {
         margin-bottom: 40px;
+
     }
 }
 
 /* Tablet Device: 768px */
-
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .testimonial-slider.owl-carousel .owl-nav button {
         left: -30px;
@@ -2669,7 +2675,6 @@ ul, ol {
 }
 
 /* Large Mobile: 480px */
-
 @media only screen and (max-width: 767px) {
     .testimonial-slider.owl-carousel .owl-nav {
         display: none;
@@ -2717,7 +2722,6 @@ ul, ol {
 }
 
 /* Small Mobile: 320px */
-
 @media only screen and (max-width: 479px) {
     .footer-section .copyright-option ul li {
         margin-bottom: 5px;
@@ -2768,7 +2772,7 @@ ul, ol {
     }
 
     /* Roadmap Image */
-    .room-details-section.spad .container .roadmap img{
+    .room-details-section.spad .container .roadmap img {
         width: 70%;
         height: 800px;
     }
