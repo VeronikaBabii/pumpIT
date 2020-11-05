@@ -999,6 +999,7 @@ ul, ol {
 .testimonial-slider .ts-item .ti-author h5 {
     font-size: 20px;
     color: #19191a;
+    background-color: whitesmoke;
     display: inline-block;
 }
 
